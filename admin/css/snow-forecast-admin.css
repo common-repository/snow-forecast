@@ -1,0 +1,430 @@
+/**
+ * All of the CSS for your admin-specific functionality should be
+ * included in this file.
+ */
+
+.bdpp-WidgetWizard_widgetWizard {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    max-width: 800px;
+}
+
+.bdpp-WidgetWizard_col_left {}
+
+.bdpp-WidgetWizard_col_right {}
+
+.bdpp-WidgetWizard_shortcode {
+    display: none;
+}
+
+#bdpp-WidgetWizard_shortcode-text {
+    width: 240px;
+    height: 100px;
+    margin-bottom: 20px;
+}
+
+/* landscape*/
+.bdpp-snow-forecaset-landscape-widget,
+.bdpp-snow-forecaset-landscape-widget * {
+    margin: 0;
+    padding: 0;
+    border: 0;
+    font-size: 100%;
+    font: inherit;
+    vertical-align: baseline;
+    letter-spacing: -.02em;
+    text-decoration: none
+}
+
+.bdpp-snow-forecaset-landscape-widget {
+    height: 60px !important;
+    width: 468px !important;
+    overflow: hidden;
+    line-height: 0;
+    position: relative;
+    background-color: #29a3f6;
+    border-radius: 10px
+}
+
+.bdpp-snow-forecaset-landscape-widget .bdpp-snow-forecaset-landscape-widget-footer {
+    background: #1ba1f9;
+    width: 98px;
+    padding: 0;
+    border-radius: 0 10px 10px 0;
+    height: 60px;
+    position: absolute;
+    right: 0;
+    top: 0
+}
+
+.bdpp-snow-forecaset-landscape-widget iframe {
+    border: none;
+    position: relative
+}
+
+.bdpp-snow-forecaset-landscape-widget .bdpp-snow-forecaset-footer-logo img {
+    width: 88px
+}
+
+.bdpp-snow-forecaset-landscape-widget .bdpp-snow-forecaset-footer-logo {
+    padding-top: 10px;
+    display: block
+}
+
+.bdpp-snow-forecaset-landscape-widget .bdpp-snow-forecaset-footer-disclaimer {
+    color: #fff;
+    font-size: 9px;
+    display: inline-block;
+    line-height: 9px;
+    font-weight: lighter;
+    display: none
+}
+
+.bdpp-snow-forecaset-landscape-widget .bdpp-snow-forecaset-footer-disclaimer a {
+    color: #fff;
+    text-decoration: none
+}
+
+.bdpp-snow-forecaset-landscape-widget .bdpp-snow-forecaset-footer-button {
+    background-color: #f88b2a;
+    border-radius: 15px;
+    padding: 10px;
+    margin: auto;
+    display: block;
+    color: #fff;
+    border: none;
+    font-size: 10px;
+    cursor: pointer;
+    margin: auto;
+    text-align: center;
+    width: 80px;
+    margin-top: 5px
+}
+
+.bdpp-snow-forecaset-landscape-widget-loader {
+    display: inline-block;
+    position: absolute;
+    width: 80px;
+    height: 80px;
+    top: -19%;
+    left: 38%;
+    z-index: 0;
+    margin-left: -55px
+}
+
+.bdpp-snow-forecaset-landscape-widget-loader div {
+    display: inline-block;
+    position: absolute;
+    left: 8px;
+    width: 16px;
+    background: #fff;
+    animation: lds-facebook 1.2s cubic-bezier(0, .5, .5, 1) infinite
+}
+
+.bdpp-snow-forecaset-landscape-widget-loader div:nth-child(1) {
+    left: 8px;
+    animation-delay: -.24s
+}
+
+.bdpp-snow-forecaset-landscape-widget-loader div:nth-child(2) {
+    left: 32px;
+    animation-delay: -.12s
+}
+
+.bdpp-snow-forecaset-landscape-widget-loader div:nth-child(3) {
+    left: 56px;
+    animation-delay: 0
+}
+
+@keyframes lds-facebook {
+    0% {
+        top: 8px;
+        height: 64px
+    }
+
+    50%,
+    100% {
+        top: 24px;
+        height: 32px
+    }
+}
+
+/*skyscrapper */
+.bdpp-snow-forecaset-skyscrapper-widget,
+.bdpp-snow-forecaset-skyscrapper-widget * {
+    margin: 0;
+    padding: 0;
+    border: 0;
+    font-size: 100%;
+    font: inherit;
+    vertical-align: baseline;
+    letter-spacing: -.02em;
+    text-decoration: none
+}
+
+.bdpp-snow-forecaset-skyscrapper-widget {
+    height: 600px !important;
+    width: 120px !important;
+    overflow: hidden;
+    line-height: 0;
+    background-color: #29a3f6;
+    border-radius: 10px;
+    position: relative
+}
+
+.bdpp-snow-forecaset-skyscrapper-widget .bdpp-snow-forecaset-skyscrapper-widget-footer {
+    background: #1ba1f9;
+    width: 120px;
+    padding: 0;
+    border-radius: 0 0 10px 10px;
+    height: 110px;
+    position: relative
+}
+
+.bdpp-snow-forecaset-skyscrapper-widget iframe {
+    border: none;
+    z-index: 10;
+    position: relative
+}
+
+.bdpp-snow-forecaset-skyscrapper-widget .bdpp-snow-forecaset-footer-logo img {
+    width: 90%
+}
+
+.bdpp-snow-forecaset-skyscrapper-widget .bdpp-snow-forecaset-footer-logo {
+    padding: 5px;
+    display: block;
+    text-align: center;
+    position: absolute;
+    bottom: 30px
+}
+
+.bdpp-snow-forecaset-skyscrapper-widget .bdpp-snow-forecaset-footer-disclaimer {
+    color: #fff;
+    font-size: 9px;
+    display: block;
+    line-height: 9px;
+    font-weight: lighter;
+    padding: 0 5px;
+    text-align: center;
+    position: absolute;
+    bottom: 5px
+}
+
+.bdpp-snow-forecaset-skyscrapper-widget .bdpp-snow-forecaset-footer-disclaimer a {
+    color: #fff;
+    text-decoration: none
+}
+
+.bdpp-snow-forecaset-skyscrapper-widget .bdpp-btnUp {
+    min-height: 30px;
+    padding-top: 0;
+    background: #fff;
+    text-align: center;
+    width: 116px;
+    margin: auto;
+    margin-bottom: 5px
+}
+
+.bdpp-snow-forecaset-skyscrapper-widget .bdpp-snow-forecaset-footer-button {
+    background-color: #f88b2a;
+    border-radius: 10px;
+    padding: 5px 8px;
+    margin: auto;
+    display: inline-block;
+    color: #fff;
+    border: none;
+    font-size: 10px;
+    cursor: pointer;
+    margin: auto;
+    text-align: center;
+    width: auto;
+    margin-bottom: 5px;
+    line-height: 10px;
+    max-width: 95%
+}
+
+.bdpp-snow-forecaset-skyscrapper-widget-loader {
+    display: inline-block;
+    position: absolute;
+    width: 80px;
+    height: 80px;
+    top: 30%;
+    left: 61%;
+    z-index: 0;
+    margin-left: -55px
+}
+
+.bdpp-snow-forecaset-skyscrapper-widget-loader div {
+    display: inline-block;
+    position: absolute;
+    left: 8px;
+    width: 16px;
+    background: #fff;
+    animation: lds-facebook 1.2s cubic-bezier(0, .5, .5, 1) infinite
+}
+
+.bdpp-snow-forecaset-skyscrapper-widget-loader div:nth-child(1) {
+    left: 8px;
+    animation-delay: -.24s
+}
+
+.bdpp-snow-forecaset-skyscrapper-widget-loader div:nth-child(2) {
+    left: 32px;
+    animation-delay: -.12s
+}
+
+.bdpp-snow-forecaset-skyscrapper-widget-loader div:nth-child(3) {
+    left: 56px;
+    animation-delay: 0
+}
+
+@keyframes lds-facebook {
+    0% {
+        top: 8px;
+        height: 64px
+    }
+
+    50%,
+    100% {
+        top: 24px;
+        height: 32px
+    }
+}
+
+/*square*/
+.bdpp-snow-forecaset-square-widget,
+.bdpp-snow-forecaset-square-widget * {
+    margin: 0;
+    padding: 0;
+    border: 0;
+    font-size: 100%;
+    font: inherit;
+    vertical-align: baseline;
+    letter-spacing: -.02em;
+    text-decoration: none
+}
+
+.bdpp-snow-forecaset-square-widget {
+    height: 250px !important;
+    width: 300px !important;
+    overflow: hidden;
+    line-height: 0;
+    background-color: #29a3f6;
+    border-radius: 10px;
+    position: relative
+}
+
+.bdpp-snow-forecaset-square-widget .bdpp-snow-forecaset-square-widget-footer {
+    background: #1ba1f9;
+    width: 300px;
+    padding: 0;
+    border-radius: 0 0 10px 10px;
+    height: 70px;
+    position: relative
+}
+
+.bdpp-snow-forecaset-square-widget iframe {
+    border: none;
+    position: relative
+}
+
+.bdpp-snow-forecaset-square-widget .bdpp-snow-forecaset-footer-logo img {
+    height: 20px
+}
+
+.bdpp-snow-forecaset-square-widget .bdpp-snow-forecaset-footer-logo {
+    padding: 4px 0 0 9px;
+    display: block
+}
+
+.bdpp-snow-forecaset-square-widget .bdpp-snow-forecaset-footer-disclaimer {
+    color: #fff;
+    font-size: 9px;
+    position: absolute;
+    bottom: 14px;
+    right: 20px;
+    display: inline-block;
+    line-height: 9px;
+    font-weight: lighter
+}
+
+.bdpp-snow-forecaset-square-widget .bdpp-snow-forecaset-footer-disclaimer a {
+    color: #fff;
+    text-decoration: none
+}
+
+.bdpp-snow-forecaset-square-widget .bdpp-btnUp {
+    min-height: 30px;
+    padding-top: 0;
+    background: #fff;
+    text-align: center;
+    width: 296px;
+    margin: auto;
+    margin-bottom: 5px
+}
+
+.bdpp-snow-forecaset-square-widget .bdpp-snow-forecaset-footer-button {
+    background-color: #f88b2a;
+    border-radius: 15px;
+    padding: 10px;
+    margin: auto;
+    display: inline-block;
+    color: #fff;
+    border: none;
+    font-size: 10px;
+    cursor: pointer;
+    margin: auto;
+    text-align: center;
+    width: auto;
+    margin-top: 5px
+}
+
+.bdpp-snow-forecaset-square-widget-loader {
+    display: inline-block;
+    position: absolute;
+    width: 80px;
+    height: 80px;
+    top: 30%;
+    left: 54%;
+    z-index: 0;
+    margin-left: -55px
+}
+
+.bdpp-snow-forecaset-square-widget-loader div {
+    display: inline-block;
+    position: absolute;
+    left: 8px;
+    width: 16px;
+    background: #fff;
+    animation: lds-facebook 1.2s cubic-bezier(0, .5, .5, 1) infinite
+}
+
+.bdpp-snow-forecaset-square-widget-loader div:nth-child(1) {
+    left: 8px;
+    animation-delay: -.24s
+}
+
+.bdpp-snow-forecaset-square-widget-loader div:nth-child(2) {
+    left: 32px;
+    animation-delay: -.12s
+}
+
+.bdpp-snow-forecaset-square-widget-loader div:nth-child(3) {
+    left: 56px;
+    animation-delay: 0
+}
+
+@keyframes lds-facebook {
+    0% {
+        top: 8px;
+        height: 64px
+    }
+
+    50%,
+    100% {
+        top: 24px;
+        height: 32px
+    }
+}

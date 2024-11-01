@@ -1,0 +1,4656 @@
+{
+    "resorts": [
+        {
+            "country": "United States",
+            "name": "49 Degrees North",
+            "encoded_name": "49-degrees-north"
+        },
+        {
+            "country": "Italy",
+            "name": "Abetone",
+            "encoded_name": "abetone"
+        },
+        {
+            "country": "Sweden",
+            "name": "Abisko Nuolja",
+            "encoded_name": "abisko-nuolja"
+        },
+        {
+            "country": "France",
+            "name": "Abondance",
+            "encoded_name": "abondance"
+        },
+        {
+            "country": "France",
+            "name": "Abriès",
+            "encoded_name": "abries"
+        },
+        {
+            "country": "Austria",
+            "name": "Achensee - Christlum",
+            "encoded_name": "achensee-christlum"
+        },
+        {
+            "country": "Austria",
+            "name": "Achensee - Maurach",
+            "encoded_name": "achensee-maurach"
+        },
+        {
+            "country": "Austria",
+            "name": "Achensee - Pertisau",
+            "encoded_name": "achensee-pertisau"
+        },
+        {
+            "country": "Switzerland",
+            "name": "Adelboden",
+            "encoded_name": "adelboden"
+        },
+        {
+            "country": "Switzerland",
+            "name": "Aeschi",
+            "encoded_name": "aeschi"
+        },
+        {
+            "country": "Austria",
+            "name": "Aflenzer Bürgeralm",
+            "encoded_name": "aflenzer-burgeralm"
+        },
+        {
+            "country": "United States",
+            "name": "Afton Alps",
+            "encoded_name": "afton-alps"
+        },
+        {
+            "country": "France",
+            "name": "Aiguilles",
+            "encoded_name": "aiguilles"
+        },
+        {
+            "country": "France",
+            "name": "Aillons Margeriaz 1400",
+            "encoded_name": "aillons-margeriaz-1400"
+        },
+        {
+            "country": "France",
+            "name": "Aim La Plagne",
+            "encoded_name": "aim-la-plagne"
+        },
+        {
+            "country": "Switzerland",
+            "name": "Airolo",
+            "encoded_name": "airolo"
+        },
+        {
+            "country": "Italy",
+            "name": "Ala di Stura",
+            "encoded_name": "ala-di-stura"
+        },
+        {
+            "country": "Italy",
+            "name": "Alagna Valsesia",
+            "encoded_name": "alagna-valsesia"
+        },
+        {
+            "country": "Italy",
+            "name": "Alba - Ciampac",
+            "encoded_name": "alba-ciampac"
+        },
+        {
+            "country": "Austria",
+            "name": "Alberschwende - Brüggelekopf",
+            "encoded_name": "alberschwende-bruggelekopf"
+        },
+        {
+            "country": "France",
+            "name": "Albiez Montrond",
+            "encoded_name": "albiez-montrond"
+        },
+        {
+            "country": "Switzerland",
+            "name": "Aletsch Arena",
+            "encoded_name": "aletsch-arena"
+        },
+        {
+            "country": "Austria",
+            "name": "Almenwelt Lofer",
+            "encoded_name": "almenwelt-lofer"
+        },
+        {
+            "country": "Austria",
+            "name": "Alpbach",
+            "encoded_name": "alpbach"
+        },
+        {
+            "country": "Italy",
+            "name": "Alpe Cimbra",
+            "encoded_name": "alpe-cimbra"
+        },
+        {
+            "country": "France",
+            "name": "Alpe d'Huez",
+            "encoded_name": "alpe-dhuez"
+        },
+        {
+            "country": "Italy",
+            "name": "Alpe Devero",
+            "encoded_name": "alpe-devero"
+        },
+        {
+            "country": "Italy",
+            "name": "Alpe di Mera",
+            "encoded_name": "alpe-di-mera"
+        },
+        {
+            "country": "United States",
+            "name": "Alpental",
+            "encoded_name": "alpental"
+        },
+        {
+            "country": "United States",
+            "name": "Alpine Meadows",
+            "encoded_name": "alpine-meadows"
+        },
+        {
+            "country": "United States",
+            "name": "Alpine Valley Ohio",
+            "encoded_name": "alpine-valley"
+        },
+        {
+            "country": "United States",
+            "name": "Alpine Valley Resort WI",
+            "encoded_name": "alpine-valley-resort"
+        },
+        {
+            "country": "United States",
+            "name": "Alpine Valley Michigan",
+            "encoded_name": "alpine-valley-ski-area"
+        },
+        {
+            "country": "Italy",
+            "name": "Alta Badia",
+            "encoded_name": "alta-badia"
+        },
+        {
+            "country": "United States",
+            "name": "Alta Ski Area",
+            "encoded_name": "alta-ski-area"
+        },
+        {
+            "country": "Germany",
+            "name": "Altenberg",
+            "encoded_name": "altenberg"
+        },
+        {
+            "country": "Spain",
+            "name": "Alto Campoo",
+            "encoded_name": "alto-campoo"
+        },
+        {
+            "country": "United States",
+            "name": "Alyeska",
+            "encoded_name": "alyeska-resort"
+        },
+        {
+            "country": "Switzerland",
+            "name": "Amden",
+            "encoded_name": "amden"
+        },
+        {
+            "country": "Switzerland",
+            "name": "Aminona",
+            "encoded_name": "aminona"
+        },
+        {
+            "country": "France",
+            "name": "Ancelle",
+            "encoded_name": "ancelle"
+        },
+        {
+            "country": "Italy",
+            "name": "Andalo Paganella",
+            "encoded_name": "andalo"
+        },
+        {
+            "country": "Austria",
+            "name": "Andelsbuch Niedere",
+            "encoded_name": "andelsbuch-niedere"
+        },
+        {
+            "country": "Switzerland",
+            "name": "Andermatt",
+            "encoded_name": "andermatt"
+        },
+        {
+            "country": "United States",
+            "name": "Andes Tower Hills",
+            "encoded_name": "andes-tower-hills-ski-area"
+        },
+        {
+            "country": "United States",
+            "name": "Angel Fire Resort",
+            "encoded_name": "angel-fire-resort"
+        },
+        {
+            "country": "Austria",
+            "name": "Ankogel",
+            "encoded_name": "ankogel"
+        },
+        {
+            "country": "Austria",
+            "name": "Annaberg",
+            "encoded_name": "annaberg"
+        },
+        {
+            "country": "Italy",
+            "name": "Antagnod",
+            "encoded_name": "antagnod"
+        },
+        {
+            "country": "United States",
+            "name": "Anthony Lakes Mountain Resort",
+            "encoded_name": "anthony-lakes-mountain-resort"
+        },
+        {
+            "country": "Switzerland",
+            "name": "Anzère",
+            "encoded_name": "anzere"
+        },
+        {
+            "country": "Canada",
+            "name": "Apex",
+            "encoded_name": "apex"
+        },
+        {
+            "country": "United States",
+            "name": "Appalachian Ski Mountain",
+            "encoded_name": "appalachian-ski-mountain"
+        },
+        {
+            "country": "United States",
+            "name": "Apple Mountain",
+            "encoded_name": "apple-mountain"
+        },
+        {
+            "country": "Italy",
+            "name": "Aprica",
+            "encoded_name": "aprica"
+        },
+        {
+            "country": "Italy",
+            "name": "Arabba Marmolada",
+            "encoded_name": "arabba-marmolada"
+        },
+        {
+            "country": "United States",
+            "name": "Arapahoe Basin",
+            "encoded_name": "arapahoe-basin-ski-area"
+        },
+        {
+            "country": "Sweden",
+            "name": "Åre",
+            "encoded_name": "are"
+        },
+        {
+            "country": "France",
+            "name": "Areches",
+            "encoded_name": "areches-beaufort"
+        },
+        {
+            "country": "Italy",
+            "name": "Argentera",
+            "encoded_name": "argentera"
+        },
+        {
+            "country": "France",
+            "name": "Argentiere",
+            "encoded_name": "argentiere"
+        },
+        {
+            "country": "United States",
+            "name": "Arizona Snowbowl",
+            "encoded_name": "arizona-snowbowl"
+        },
+        {
+            "country": "Austria",
+            "name": "Arlberg",
+            "encoded_name": "arlberg"
+        },
+        {
+            "country": "Italy",
+            "name": "Armentarola",
+            "encoded_name": "armentarola"
+        },
+        {
+            "country": "Switzerland",
+            "name": "Arolla",
+            "encoded_name": "arolla"
+        },
+        {
+            "country": "Switzerland",
+            "name": "Arosa  ",
+            "encoded_name": "arosa"
+        },
+        {
+            "country": "Switzerland",
+            "name": "Arosa Lenzerheide",
+            "encoded_name": "arosa-lenzerheide"
+        },
+        {
+            "country": "France",
+            "name": "Artouste - Fabrèges",
+            "encoded_name": "artouste-fabreges"
+        },
+        {
+            "country": "France",
+            "name": "Arvieux",
+            "encoded_name": "arvieux"
+        },
+        {
+            "country": "Austria",
+            "name": "Aschau im Zillertal",
+            "encoded_name": "aschau-im-zillertal"
+        },
+        {
+            "country": "France",
+            "name": "Ascou Pailhères",
+            "encoded_name": "ascou-pailheres"
+        },
+        {
+            "country": "Italy",
+            "name": "Asiago",
+            "encoded_name": "asiago"
+        },
+        {
+            "country": "United States",
+            "name": "Aspen Snowmass",
+            "encoded_name": "aspen-snowmass"
+        },
+        {
+            "country": "Spain",
+            "name": "Astún",
+            "encoded_name": "astun"
+        },
+        {
+            "country": "United States",
+            "name": "Attitash",
+            "encoded_name": "attitash"
+        },
+        {
+            "country": "Switzerland",
+            "name": "Atzmännig Goldingen",
+            "encoded_name": "atzmannig-goldingen"
+        },
+        {
+            "country": "Austria",
+            "name": "Auffach",
+            "encoded_name": "auffach"
+        },
+        {
+            "country": "France",
+            "name": "Auris en oisans",
+            "encoded_name": "auris-en-oisans"
+        },
+        {
+            "country": "France",
+            "name": "Auron",
+            "encoded_name": "auron"
+        },
+        {
+            "country": "Italy",
+            "name": "Auronzo di Cadore",
+            "encoded_name": "auronzo-di-cadore"
+        },
+        {
+            "country": "France",
+            "name": "Aussois",
+            "encoded_name": "aussois"
+        },
+        {
+            "country": "France",
+            "name": "Autrans",
+            "encoded_name": "autrans"
+        },
+        {
+            "country": "Switzerland",
+            "name": "Avers",
+            "encoded_name": "avers"
+        },
+        {
+            "country": "United Kingdom",
+            "name": "Aviemore",
+            "encoded_name": "aviemore"
+        },
+        {
+            "country": "France",
+            "name": "Avoriaz",
+            "encoded_name": "avoriaz"
+        },
+        {
+            "country": "France",
+            "name": "Ax 3 Domaines",
+            "encoded_name": "ax-3-domaines"
+        },
+        {
+            "country": "Austria",
+            "name": "Axamer - Lizum",
+            "encoded_name": "axamer-lizum"
+        },
+        {
+            "country": "Austria",
+            "name": "Bad Gastein - Graukogel",
+            "encoded_name": "bad-gastein-graukogel"
+        },
+        {
+            "country": "Austria",
+            "name": "Bad Hofgastein - Bad Gastein - Angertal",
+            "encoded_name": "bad-hofgastein-bad-gastein-angertal"
+        },
+        {
+            "country": "Austria",
+            "name": "Bad Kleinkirchheim",
+            "encoded_name": "bad-kleinkirchheim"
+        },
+        {
+            "country": "Germany",
+            "name": "Bad Kohlgrub - Hörnle",
+            "encoded_name": "bad-kohlgrub-hornle"
+        },
+        {
+            "country": "Italy",
+            "name": "Badia",
+            "encoded_name": "badia"
+        },
+        {
+            "country": "Germany",
+            "name": "Balderschwang",
+            "encoded_name": "balderschwang"
+        },
+        {
+            "country": "Canada",
+            "name": "Banff Lake Louise",
+            "encoded_name": "lake-louise"
+        },
+        {
+            "country": "Canada",
+            "name": "Banff Mount Norquay",
+            "encoded_name": "mount-norquay"
+        },
+        {
+            "country": "Canada",
+            "name": "Banff Sunshine",
+            "encoded_name": "banff-sunshine"
+        },
+        {
+            "country": "Poland",
+            "name": "Bania",
+            "encoded_name": "bania"
+        },
+        {
+            "country": "Bulgaria",
+            "name": "Bansko",
+            "encoded_name": "bansko"
+        },
+        {
+            "country": "Spain",
+            "name": "Baqueira",
+            "encoded_name": "baqueira"
+        },
+        {
+            "country": "Italy",
+            "name": "Bardonecchia",
+            "encoded_name": "bardonecchia"
+        },
+        {
+            "country": "France",
+            "name": "Barèges",
+            "encoded_name": "bareges"
+        },
+        {
+            "country": "Switzerland",
+            "name": "Barzettes",
+            "encoded_name": "barzettes"
+        },
+        {
+            "country": "United States",
+            "name": "Bear Creek Mountain Resort",
+            "encoded_name": "bear-creek-mountain-resort"
+        },
+        {
+            "country": "United States",
+            "name": "Bear Mountain",
+            "encoded_name": "bear-mountain"
+        },
+        {
+            "country": "United States",
+            "name": "Bear Valley",
+            "encoded_name": "bear-valley"
+        },
+        {
+            "country": "Switzerland",
+            "name": "Beatenberg",
+            "encoded_name": "beatenberg"
+        },
+        {
+            "country": "United States",
+            "name": "Beaver Creek",
+            "encoded_name": "beaver-creek"
+        },
+        {
+            "country": "United States",
+            "name": "Beaver Mountain",
+            "encoded_name": "beaver-mountain"
+        },
+        {
+            "country": "Switzerland",
+            "name": "Beckenried - Klewenalp",
+            "encoded_name": "beckenried-klewenalp"
+        },
+        {
+            "country": "Czech Republic",
+            "name": "Bedrichov",
+            "encoded_name": "bedrichov"
+        },
+        {
+            "country": "United States",
+            "name": "Beech Mountain Resort",
+            "encoded_name": "beech-mountain-resort"
+        },
+        {
+            "country": "Norway",
+            "name": "Beitostølen",
+            "encoded_name": "beitostolen"
+        },
+        {
+            "country": "Switzerland",
+            "name": "Belalp - Blatten - Naters",
+            "encoded_name": "belalp-blatten-naters"
+        },
+        {
+            "country": "France",
+            "name": "Belle Plagne",
+            "encoded_name": "belle-plagne"
+        },
+        {
+            "country": "United States",
+            "name": "Belleayre",
+            "encoded_name": "belleayre"
+        },
+        {
+            "country": "France",
+            "name": "Bellevaux - Hirmentaz",
+            "encoded_name": "bellevaux-hirmentaz"
+        },
+        {
+            "country": "Switzerland",
+            "name": "Bellwald",
+            "encoded_name": "bellwald"
+        },
+        {
+            "country": "Czech Republic",
+            "name": "Benecko",
+            "encoded_name": "benecko"
+        },
+        {
+            "country": "Spain",
+            "name": "Beret",
+            "encoded_name": "beret"
+        },
+        {
+            "country": "Austria",
+            "name": "Bergeralm - Steinach am Brenner",
+            "encoded_name": "bergeralm-steinach-am-brenner"
+        },
+        {
+            "country": "United States",
+            "name": "Berkshire East",
+            "encoded_name": "berkshire-east"
+        },
+        {
+            "country": "France",
+            "name": "Bernex",
+            "encoded_name": "bernex"
+        },
+        {
+            "country": "France",
+            "name": "Bessans Ski Area",
+            "encoded_name": "bessans"
+        },
+        {
+            "country": "France",
+            "name": "Besse Super Besse",
+            "encoded_name": "besse-super-besse"
+        },
+        {
+            "country": "Switzerland",
+            "name": "Betten",
+            "encoded_name": "betten"
+        },
+        {
+            "country": "France",
+            "name": "Beuil les Launes",
+            "encoded_name": "beuil-les-launes"
+        },
+        {
+            "country": "Austria",
+            "name": "Biberweir",
+            "encoded_name": "biberweir"
+        },
+        {
+            "country": "Austria",
+            "name": "Bichlbach",
+            "encoded_name": "bichlbach"
+        },
+        {
+            "country": "Italy",
+            "name": "Bielmonte",
+            "encoded_name": "bielmonte"
+        },
+        {
+            "country": "United States",
+            "name": "Big Boulder",
+            "encoded_name": "big-boulder"
+        },
+        {
+            "country": "United States",
+            "name": "Big Powderhorn Mountain",
+            "encoded_name": "big-powderhorn-mountain"
+        },
+        {
+            "country": "United States",
+            "name": "Big Sky Resort",
+            "encoded_name": "big-sky-resort"
+        },
+        {
+            "country": "United States",
+            "name": "Big Snow Resort - Indianhead Mountain",
+            "encoded_name": "big-snow-resort-indianhead-mountain"
+        },
+        {
+            "country": "United States",
+            "name": "Big Squaw Mountain Ski Resort",
+            "encoded_name": "big-squaw-mountain-ski-resort"
+        },
+        {
+            "country": "Canada",
+            "name": "Big White ",
+            "encoded_name": "big-white"
+        },
+        {
+            "country": "United States",
+            "name": "Bittersweet",
+            "encoded_name": "bittersweet-ski-area"
+        },
+        {
+            "country": "Norway",
+            "name": "Bjorli",
+            "encoded_name": "bjorli-skisenter-as"
+        },
+        {
+            "country": "Sweden",
+            "name": "Björnen",
+            "encoded_name": "bjornen"
+        },
+        {
+            "country": "United States",
+            "name": "Black Mountain",
+            "encoded_name": "black-mountain"
+        },
+        {
+            "country": "United States",
+            "name": "Blacktail Mountain",
+            "encoded_name": "blacktail-mountain-ski-area"
+        },
+        {
+            "country": "United States",
+            "name": "Blue Hills",
+            "encoded_name": "blue-hills-ski-area"
+        },
+        {
+            "country": "United States",
+            "name": "Blue Knob",
+            "encoded_name": "blue-knob"
+        },
+        {
+            "country": "Canada",
+            "name": "Blue Mountain Ontario",
+            "encoded_name": "blue-mountain"
+        },
+        {
+            "country": "United States",
+            "name": "Blue Mountain Resort PA",
+            "encoded_name": "blue-mountain-resort"
+        },
+        {
+            "country": "United States",
+            "name": "Bluewood",
+            "encoded_name": "bluewood"
+        },
+        {
+            "country": "Germany",
+            "name": "Bodenmais Erlebnis Silberberg",
+            "encoded_name": "bodenmais-erlebnis-silberberg"
+        },
+        {
+            "country": "United States",
+            "name": "Bogus Basin",
+            "encoded_name": "bogus-basin"
+        },
+        {
+            "country": "Slovenia",
+            "name": "Bohinj - Vogel",
+            "encoded_name": "bohinj-vogel"
+        },
+        {
+            "country": "Spain",
+            "name": "Boí Taüll",
+            "encoded_name": "boi-taull"
+        },
+        {
+            "country": "Italy",
+            "name": "Bolognola",
+            "encoded_name": "bolognola"
+        },
+        {
+            "country": "France",
+            "name": "Bolquère - Pyrénées 2000",
+            "encoded_name": "bolquere-pyrenees-2000"
+        },
+        {
+            "country": "United States",
+            "name": "Bolton Valley",
+            "encoded_name": "bolton-valley"
+        },
+        {
+            "country": "France",
+            "name": "Bonneval sur Arc",
+            "encoded_name": "bonneval-sur-arc"
+        },
+        {
+            "country": "United States",
+            "name": "Boreal Mountain Resort",
+            "encoded_name": "boreal-mountain-resort"
+        },
+        {
+            "country": "Sweden",
+            "name": "Borgafjäll",
+            "encoded_name": "borgafjall"
+        },
+        {
+            "country": "Italy",
+            "name": "Bormio",
+            "encoded_name": "bormio"
+        },
+        {
+            "country": "Italy",
+            "name": "Borno",
+            "encoded_name": "borno"
+        },
+        {
+            "country": "Bulgaria",
+            "name": "Borovets",
+            "encoded_name": "borovets"
+        },
+        {
+            "country": "United States",
+            "name": "Boston Mills",
+            "encoded_name": "boston-mills"
+        },
+        {
+            "country": "United States",
+            "name": "Bousquet",
+            "encoded_name": "bousquet-ski-area"
+        },
+        {
+            "country": "United States",
+            "name": "Boyne Highlands",
+            "encoded_name": "boyne-highlands"
+        },
+        {
+            "country": "United States",
+            "name": "Boyne Mountain Resort",
+            "encoded_name": "boyne-mountain-resort"
+        },
+        {
+            "country": "United States",
+            "name": "Bradford Massachusets",
+            "encoded_name": "bradford-ski-area"
+        },
+        {
+            "country": "France",
+            "name": "Bramans",
+            "encoded_name": "bramans"
+        },
+        {
+            "country": "Austria",
+            "name": "Brand",
+            "encoded_name": "brand"
+        },
+        {
+            "country": "Austria",
+            "name": "Brandnertal",
+            "encoded_name": "brandnertal"
+        },
+        {
+            "country": "United States",
+            "name": "Brandywine",
+            "encoded_name": "brandywine"
+        },
+        {
+            "country": "United States",
+            "name": "Brantling Ski Slopes",
+            "encoded_name": "brantling-ski-slopes"
+        },
+        {
+            "country": "Switzerland",
+            "name": "Braunwald",
+            "encoded_name": "braunwald"
+        },
+        {
+            "country": "United States",
+            "name": "Breckenridge",
+            "encoded_name": "breckenridge"
+        },
+        {
+            "country": "United States",
+            "name": "Bretton Woods",
+            "encoded_name": "bretton-woods"
+        },
+        {
+            "country": "United States",
+            "name": "Brian Head Resort",
+            "encoded_name": "brian-head-resort"
+        },
+        {
+            "country": "France",
+            "name": "Briancon",
+            "encoded_name": "briancon"
+        },
+        {
+            "country": "France",
+            "name": "Brides Les Bains",
+            "encoded_name": "brides-les-bains"
+        },
+        {
+            "country": "United States",
+            "name": "Bridger Bowl",
+            "encoded_name": "bridger-bowl"
+        },
+        {
+            "country": "Switzerland",
+            "name": "Brienz - Axalp",
+            "encoded_name": "brienz-axalp"
+        },
+        {
+            "country": "Switzerland",
+            "name": "Brigels - Breil",
+            "encoded_name": "brigels-breil"
+        },
+        {
+            "country": "United States",
+            "name": "Brighton Resort",
+            "encoded_name": "brighton-resort"
+        },
+        {
+            "country": "United States",
+            "name": "Bristol Mountain",
+            "encoded_name": "bristol-mountain"
+        },
+        {
+            "country": "Austria",
+            "name": "Brixen im Thale",
+            "encoded_name": "brixen-im-thale"
+        },
+        {
+            "country": "New Zealand",
+            "name": "Broken River",
+            "encoded_name": "broken-river"
+        },
+        {
+            "country": "Norway",
+            "name": "Brokke",
+            "encoded_name": "brokke"
+        },
+        {
+            "country": "United States",
+            "name": "Bromley Mountain",
+            "encoded_name": "bromley-mountain"
+        },
+        {
+            "country": "Canada",
+            "name": "Bromont, montagne d’expériences",
+            "encoded_name": "bromont-montagne-dexperiences"
+        },
+        {
+            "country": "United States",
+            "name": "Brundage Mountain",
+            "encoded_name": "brundage-mountain-resort"
+        },
+        {
+            "country": "Switzerland",
+            "name": "Brunni - Alpthal",
+            "encoded_name": "brunni-alpthal"
+        },
+        {
+            "country": "Italy",
+            "name": "Brusson",
+            "encoded_name": "brusson"
+        },
+        {
+            "country": "United States",
+            "name": "Bryce Resort",
+            "encoded_name": "bryce-resort"
+        },
+        {
+            "country": "United States",
+            "name": "Buck Hill",
+            "encoded_name": "buck-hill"
+        },
+        {
+            "country": "United States",
+            "name": "Buena Vista",
+            "encoded_name": "buena-vista-ski-area"
+        },
+        {
+            "country": "United States",
+            "name": "Buffalo Ski Club",
+            "encoded_name": "buffalo-ski-club-ski-area"
+        },
+        {
+            "country": "United States",
+            "name": "Burke Mountain",
+            "encoded_name": "burke-mountain"
+        },
+        {
+            "country": "United States",
+            "name": "Caberfae Peaks",
+            "encoded_name": "caberfae-peaks"
+        },
+        {
+            "country": "Canada",
+            "name": "Calabogie Peaks",
+            "encoded_name": "calabogie-peaks"
+        },
+        {
+            "country": "United States",
+            "name": "Camden Bowl",
+            "encoded_name": "camden-snow-bowl"
+        },
+        {
+            "country": "United States",
+            "name": "Camelback Mountain Resort",
+            "encoded_name": "camelback-mountain-resort"
+        },
+        {
+            "country": "Canada",
+            "name": "Camp Fortune",
+            "encoded_name": "camp-fortune"
+        },
+        {
+            "country": "United States",
+            "name": "Campgaw Mountain",
+            "encoded_name": "campgaw-mountain"
+        },
+        {
+            "country": "United States",
+            "name": "Canaan Valley Resort",
+            "encoded_name": "canaan-valley-resort"
+        },
+        {
+            "country": "Italy",
+            "name": "Canazei ",
+            "encoded_name": "canazei"
+        },
+        {
+            "country": "Spain",
+            "name": "Candanchú",
+            "encoded_name": "candanchu"
+        },
+        {
+            "country": "Andorra",
+            "name": "Canillo",
+            "encoded_name": "canillo"
+        },
+        {
+            "country": "United States",
+            "name": "Cannon Mountain",
+            "encoded_name": "cannon-mountain"
+        },
+        {
+            "country": "United States",
+            "name": "Cannonsburg",
+            "encoded_name": "cannonsburg"
+        },
+        {
+            "country": "New Zealand",
+            "name": "Cardrona",
+            "encoded_name": "cardrona"
+        },
+        {
+            "country": "United States",
+            "name": "Cascade Mountain",
+            "encoded_name": "cascade-mountain"
+        },
+        {
+            "country": "Italy",
+            "name": "Caspoggio - Valmalenco",
+            "encoded_name": "caspoggio-valmalenco"
+        },
+        {
+            "country": "Canada",
+            "name": "Castle Mountain",
+            "encoded_name": "castle-mountain"
+        },
+        {
+            "country": "United States",
+            "name": "Cataloochee",
+            "encoded_name": "cataloochee-ski-area"
+        },
+        {
+            "country": "United States",
+            "name": "Catamount",
+            "encoded_name": "catamount"
+        },
+        {
+            "country": "France",
+            "name": "Ceillac",
+            "encoded_name": "ceillac"
+        },
+        {
+            "country": "Switzerland",
+            "name": "Celerina",
+            "encoded_name": "celerina"
+        },
+        {
+            "country": "France",
+            "name": "Celliers",
+            "encoded_name": "celliers"
+        },
+        {
+            "country": "Slovenia",
+            "name": "Cerkno",
+            "encoded_name": "cerkno"
+        },
+        {
+            "country": "Spain",
+            "name": "Cerler",
+            "encoded_name": "cerler"
+        },
+        {
+            "country": "Italy",
+            "name": "Cervinia - Breuil",
+            "encoded_name": "cervinia-breuil"
+        },
+        {
+            "country": "Italy",
+            "name": "Cesana",
+            "encoded_name": "cesana"
+        },
+        {
+            "country": "France",
+            "name": "Chamonix",
+            "encoded_name": "chamonix"
+        },
+        {
+            "country": "France",
+            "name": "Champagny En Vanoise",
+            "encoded_name": "champagny-en-vanoise"
+        },
+        {
+            "country": "Switzerland",
+            "name": "Champery",
+            "encoded_name": "champery"
+        },
+        {
+            "country": "Italy",
+            "name": "Champoluc",
+            "encoded_name": "champoluc"
+        },
+        {
+            "country": "Switzerland",
+            "name": "Champoussin",
+            "encoded_name": "champoussin"
+        },
+        {
+            "country": "France",
+            "name": "Chantemerle",
+            "encoded_name": "chantemerle"
+        },
+        {
+            "country": "Australia",
+            "name": "Charlotte Pass",
+            "encoded_name": "charlotte-pass"
+        },
+        {
+            "country": "France",
+            "name": "Chatel",
+            "encoded_name": "chatel"
+        },
+        {
+            "country": "United States",
+            "name": "Chestnut Mountain Resort",
+            "encoded_name": "chestnut-mountain-resort"
+        },
+        {
+            "country": "United States",
+            "name": "Christie Mountain",
+            "encoded_name": "christie-mountain"
+        },
+        {
+            "country": "United States",
+            "name": "Christmas Mountain",
+            "encoded_name": "christmas-mountain"
+        },
+        {
+            "country": "Switzerland",
+            "name": "Churwalden",
+            "encoded_name": "churwalden"
+        },
+        {
+            "country": "Italy",
+            "name": "Cimone",
+            "encoded_name": "cimone"
+        },
+        {
+            "country": "Italy",
+            "name": "Civetta",
+            "encoded_name": "civetta"
+        },
+        {
+            "country": "Italy",
+            "name": "Claviere",
+            "encoded_name": "claviere"
+        },
+        {
+            "country": "France",
+            "name": "Cohennoz",
+            "encoded_name": "cohennoz"
+        },
+        {
+            "country": "Italy",
+            "name": "Colfosco",
+            "encoded_name": "colfosco"
+        },
+        {
+            "country": "France",
+            "name": "Combloux",
+            "encoded_name": "combloux"
+        },
+        {
+            "country": "United States",
+            "name": "Cooper - Colorado",
+            "encoded_name": "cooper"
+        },
+        {
+            "country": "United States",
+            "name": "Cooper Spur Oregan",
+            "encoded_name": "cooper-spur"
+        },
+        {
+            "country": "United States",
+            "name": "Copper Mountain Resort",
+            "encoded_name": "copper-mountain-resort"
+        },
+        {
+            "country": "New Zealand",
+            "name": "Coronet Peak",
+            "encoded_name": "coronet-peak"
+        },
+        {
+            "country": "France",
+            "name": "Corrençon en Vercors",
+            "encoded_name": "correncon-en-vercors"
+        },
+        {
+            "country": "Italy",
+            "name": "Cortina d'Ampezzo",
+            "encoded_name": "cortina-dampezzo"
+        },
+        {
+            "country": "Italy",
+            "name": "Corvara",
+            "encoded_name": "corvara"
+        },
+        {
+            "country": "France",
+            "name": "Courchevel Village 1850",
+            "encoded_name": "courchevel-1850"
+        },
+        {
+            "country": "France",
+            "name": "Courchevel Le Praz",
+            "encoded_name": "courchevel-le-praz"
+        },
+        {
+            "country": "France",
+            "name": "Courchevel Moriond",
+            "encoded_name": "courchevel-moriond"
+        },
+        {
+            "country": "Italy",
+            "name": "Courmayeur",
+            "encoded_name": "courmayeur"
+        },
+        {
+            "country": "New Zealand",
+            "name": "Craigieburn",
+            "encoded_name": "craigieburn"
+        },
+        {
+            "country": "United States",
+            "name": "Cranmore Mountain Resort",
+            "encoded_name": "cranmore-mountain-resort"
+        },
+        {
+            "country": "Switzerland",
+            "name": "Crans  ",
+            "encoded_name": "crans"
+        },
+        {
+            "country": "Switzerland",
+            "name": "Crans Montana",
+            "encoded_name": "crans-montana"
+        },
+        {
+            "country": "France",
+            "name": "Crest Voland",
+            "encoded_name": "crest-voland"
+        },
+        {
+            "country": "United States",
+            "name": "Crested Butte",
+            "encoded_name": "crested-butte-mountain-resort"
+        },
+        {
+            "country": "United States",
+            "name": "Crotched Mountain",
+            "encoded_name": "crotched-mountain"
+        },
+        {
+            "country": "France",
+            "name": "Crozet",
+            "encoded_name": "crozet"
+        },
+        {
+            "country": "United States",
+            "name": "Crystal Mountain WA",
+            "encoded_name": "crystal-mountain"
+        },
+        {
+            "country": "United States",
+            "name": "Crystal Mountain MI",
+            "encoded_name": "crystal-mountain"
+        },
+        {
+            "country": "Canada",
+            "name": "Cypress Mountain",
+            "encoded_name": "cypress-mountain"
+        },
+        {
+            "country": "Poland",
+            "name": "Czorsztyn",
+            "encoded_name": "czorsztyn"
+        },
+        {
+            "country": "Austria",
+            "name": "Dachstein West",
+            "encoded_name": "dachstein-west"
+        },
+        {
+            "country": "Austria",
+            "name": "Damüls",
+            "encoded_name": "damuls"
+        },
+        {
+            "country": "United States",
+            "name": "Dartmouth Skiway",
+            "encoded_name": "dartmouth-skiway"
+        },
+        {
+            "country": "Switzerland",
+            "name": "Davos",
+            "encoded_name": "davos"
+        },
+        {
+            "country": "United States",
+            "name": "Deer Valley Resort",
+            "encoded_name": "deer-valley-resort"
+        },
+        {
+            "country": "United States",
+            "name": "Devils Head",
+            "encoded_name": "devils-head"
+        },
+        {
+            "country": "United States",
+            "name": "Diamond Peak",
+            "encoded_name": "diamond-peak"
+        },
+        {
+            "country": "Australia",
+            "name": "Dinner Plain",
+            "encoded_name": "dinner-plain"
+        },
+        {
+            "country": "United States",
+            "name": "Discovery Ski Area",
+            "encoded_name": "discovery-ski-area"
+        },
+        {
+            "country": "United States",
+            "name": "Dodge Ridge",
+            "encoded_name": "dodge-ridge"
+        },
+        {
+            "country": "United States",
+            "name": "Donner Ski Ranch",
+            "encoded_name": "donner-ski-ranch"
+        },
+        {
+            "country": "Slovakia",
+            "name": "Donovaly",
+            "encoded_name": "donovaly"
+        },
+        {
+            "country": "France",
+            "name": "Doucy",
+            "encoded_name": "doucy"
+        },
+        {
+            "country": "United States",
+            "name": "Dry Hill",
+            "encoded_name": "dry-hill-ski-area"
+        },
+        {
+            "country": "Sweden",
+            "name": "Duved",
+            "encoded_name": "duved"
+        },
+        {
+            "country": "United States",
+            "name": "Eagle Rock",
+            "encoded_name": "eagle-rock"
+        },
+        {
+            "country": "United States",
+            "name": "Eaglecrest",
+            "encoded_name": "eaglecrest-ski-area"
+        },
+        {
+            "country": "Switzerland",
+            "name": "Ebnat - Kappel",
+            "encoded_name": "ebnat-kappel"
+        },
+        {
+            "country": "Sweden",
+            "name": "Edsåsdalen",
+            "encoded_name": "edsasdalen"
+        },
+        {
+            "country": "Austria",
+            "name": "Ehrwald",
+            "encoded_name": "ehrwald"
+        },
+        {
+            "country": "Andorra",
+            "name": "El Tarter",
+            "encoded_name": "el-tarter"
+        },
+        {
+            "country": "United States",
+            "name": "Eldora Mountain Resort",
+            "encoded_name": "eldora-mountain-resort"
+        },
+        {
+            "country": "United States",
+            "name": "Elk Mountain Ski Resort",
+            "encoded_name": "elk-mountain-ski-resort"
+        },
+        {
+            "country": "Austria",
+            "name": "Ellmau",
+            "encoded_name": "ellmau"
+        },
+        {
+            "country": "Andorra",
+            "name": "Encamp",
+            "encoded_name": "encamp"
+        },
+        {
+            "country": "United States",
+            "name": "Enchanted Forest",
+            "encoded_name": "enchanted-forest-ski-area"
+        },
+        {
+            "country": "Switzerland",
+            "name": "Engelberg",
+            "encoded_name": "engelberg"
+        },
+        {
+            "country": "France",
+            "name": "Etang de Lers",
+            "encoded_name": "etang-de-lers"
+        },
+        {
+            "country": "Australia",
+            "name": "Falls Creek ",
+            "encoded_name": "falls-creek"
+        },
+        {
+            "country": "Austria",
+            "name": "Faschina",
+            "encoded_name": "faschina"
+        },
+        {
+            "country": "Canada",
+            "name": "Fernie",
+            "encoded_name": "fernie"
+        },
+        {
+            "country": "Austria",
+            "name": "Fieberbrunn",
+            "encoded_name": "fieberbrunn"
+        },
+        {
+            "country": "Switzerland",
+            "name": "Fiesch",
+            "encoded_name": "fiesch"
+        },
+        {
+            "country": "Austria",
+            "name": "Finkenberg",
+            "encoded_name": "finkenberg"
+        },
+        {
+            "country": "Austria",
+            "name": "Fiss",
+            "encoded_name": "fiss"
+        },
+        {
+            "country": "Austria",
+            "name": "Flachau",
+            "encoded_name": "flachau"
+        },
+        {
+            "country": "France",
+            "name": "Flaine",
+            "encoded_name": "flaine"
+        },
+        {
+            "country": "France",
+            "name": "Flumet",
+            "encoded_name": "flumet"
+        },
+        {
+            "country": "Italy",
+            "name": "Folgaria",
+            "encoded_name": "folgaria"
+        },
+        {
+            "country": "Italy",
+            "name": "Folgàrida",
+            "encoded_name": "folgarida"
+        },
+        {
+            "country": "Norway",
+            "name": "Fonna Glacier",
+            "encoded_name": "fonna-glacier"
+        },
+        {
+            "country": "France",
+            "name": "Font d'Urle",
+            "encoded_name": "font-durle"
+        },
+        {
+            "country": "France",
+            "name": "Font-Romeu ",
+            "encoded_name": "font-romeu"
+        },
+        {
+            "country": "Italy",
+            "name": "Foppolo - Carona - Brembo Ski",
+            "encoded_name": "foppolo-carona-brembo-ski"
+        },
+        {
+            "country": "Spain",
+            "name": "Fórmigal",
+            "encoded_name": "formigal"
+        },
+        {
+            "country": "United States",
+            "name": "Four Lakes",
+            "encoded_name": "four-lakes"
+        },
+        {
+            "country": "New Zealand",
+            "name": "Fox Peak",
+            "encoded_name": "fox-Peak"
+        },
+        {
+            "country": "Austria",
+            "name": "Fugen",
+            "encoded_name": "fugen"
+        },
+        {
+            "country": "Austria",
+            "name": "Fulpmes",
+            "encoded_name": "fulpmes"
+        },
+        {
+            "country": "Norway",
+            "name": "Galdhopiggen Glacier ski",
+            "encoded_name": "galdhopiggen-glacier-ski"
+        },
+        {
+            "country": "Austria",
+            "name": "Gaschurn",
+            "encoded_name": "gaschurn"
+        },
+        {
+            "country": "Norway",
+            "name": "Geilo",
+            "encoded_name": "geilo"
+        },
+        {
+            "country": "Austria",
+            "name": "Gerlos",
+            "encoded_name": "gerlos"
+        },
+        {
+            "country": "United States",
+            "name": "Giants Ridge Resort",
+            "encoded_name": "giants-ridge-resort"
+        },
+        {
+            "country": "Norway",
+            "name": "Giljastolen",
+            "encoded_name": "giljastolen"
+        },
+        {
+            "country": "United Kingdom",
+            "name": "Glencoe",
+            "encoded_name": "glencoe"
+        },
+        {
+            "country": "United Kingdom",
+            "name": "Glenshee",
+            "encoded_name": "glenshee"
+        },
+        {
+            "country": "Austria",
+            "name": "Going",
+            "encoded_name": "going"
+        },
+        {
+            "country": "Slovenia",
+            "name": "Golte - Mozirje",
+            "encoded_name": "golte-mozirje"
+        },
+        {
+            "country": "United States",
+            "name": "Gore Mountain",
+            "encoded_name": "gore-mountain"
+        },
+        {
+            "country": "Austria",
+            "name": "Gortipohl",
+            "encoded_name": "gortipohl"
+        },
+        {
+            "country": "Austria",
+            "name": "Gosau",
+            "encoded_name": "gosau"
+        },
+        {
+            "country": "United States",
+            "name": "Grand Geneva",
+            "encoded_name": "grand-geneva"
+        },
+        {
+            "country": "United States",
+            "name": "Grand Targhee Resort",
+            "encoded_name": "grand-targhee-resort"
+        },
+        {
+            "country": "United States",
+            "name": "Granite Peak",
+            "encoded_name": "granite-peak-ski-area"
+        },
+        {
+            "country": "United States",
+            "name": "Great Divide",
+            "encoded_name": "great-divide"
+        },
+        {
+            "country": "Austria",
+            "name": "Grebenzen - St.Lambrecht",
+            "encoded_name": "grebenzen-st-lambrecht"
+        },
+        {
+            "country": "United States",
+            "name": "Greek Peak",
+            "encoded_name": "greek-peak"
+        },
+        {
+            "country": "Italy",
+            "name": "Gressoney-La-Trinité",
+            "encoded_name": "gressoney-la-trinite"
+        },
+        {
+            "country": "Italy",
+            "name": "Gressoney-Saint-Jean",
+            "encoded_name": "gressoney-saint-jean"
+        },
+        {
+            "country": "Switzerland",
+            "name": "Grimentz-Zinal",
+            "encoded_name": "grimentz-zinal"
+        },
+        {
+            "country": "Switzerland",
+            "name": "Grindelwald",
+            "encoded_name": "grindelwald"
+        },
+        {
+            "country": "Canada",
+            "name": "Grouse Mountain",
+            "encoded_name": "grouse-mountain"
+        },
+        {
+            "country": "Switzerland",
+            "name": "Gryon",
+            "encoded_name": "gryon"
+        },
+        {
+            "country": "Switzerland",
+            "name": "Gstaad",
+            "encoded_name": "gstaad"
+        },
+        {
+            "country": "United States",
+            "name": "Gunstock",
+            "encoded_name": "gunstock"
+        },
+        {
+            "country": "Australia",
+            "name": "Guthega Village",
+            "encoded_name": "guthega-village"
+        },
+        {
+            "country": "Norway",
+            "name": "Hafjell",
+            "encoded_name": "hafjell"
+        },
+        {
+            "country": "Norway",
+            "name": "Hallingskarvet",
+            "encoded_name": "hallingskarvet"
+        },
+        {
+            "country": "Sweden",
+            "name": "Hammarbybacken",
+            "encoded_name": "hammarbybacken"
+        },
+        {
+            "country": "New Zealand",
+            "name": "Hanmer Springs",
+            "encoded_name": "hanmer-springs"
+        },
+        {
+            "country": "United States",
+            "name": "Heavenly",
+            "encoded_name": "heavenly"
+        },
+        {
+            "country": "Austria",
+            "name": "Heiterwang",
+            "encoded_name": "heiterwang"
+        },
+        {
+            "country": "Sweden",
+            "name": "Hemavan Tärnaby",
+            "encoded_name": "hemavan-tarnaby"
+        },
+        {
+            "country": "Switzerland",
+            "name": "Hemberg - Bächli",
+            "encoded_name": "hemberg-bachli"
+        },
+        {
+            "country": "Norway",
+            "name": "Hemsedal",
+            "encoded_name": "hemsedal"
+        },
+        {
+            "country": "Canada",
+            "name": "Hidden Valley Ontario",
+            "encoded_name": "hidden-valley"
+        },
+        {
+            "country": "United States",
+            "name": "Hidden Valley Missouri",
+            "encoded_name": "hidden-valley-ski-area"
+        },
+        {
+            "country": "Austria",
+            "name": "Hinterglemm",
+            "encoded_name": "hinterglemm"
+        },
+        {
+            "country": "Austria",
+            "name": "Hintertuxer Glacier",
+            "encoded_name": "hintertuxer-glacier"
+        },
+        {
+            "country": "Austria",
+            "name": "Hochfügen",
+            "encoded_name": "hochfugen"
+        },
+        {
+            "country": "Austria",
+            "name": "Hochgurgl",
+            "encoded_name": "hochgurgl"
+        },
+        {
+            "country": "Austria",
+            "name": "Hochkönig",
+            "encoded_name": "hochkonig"
+        },
+        {
+            "country": "Austria",
+            "name": "Hochkrimml",
+            "encoded_name": "hochkrimml"
+        },
+        {
+            "country": "United States",
+            "name": "Hogadon Basin",
+            "encoded_name": "hogadon-basin"
+        },
+        {
+            "country": "United States",
+            "name": "Holiday Mountain",
+            "encoded_name": "holiday-mountain"
+        },
+        {
+            "country": "United States",
+            "name": "Holiday Valley",
+            "encoded_name": "holiday-valley"
+        },
+        {
+            "country": "United States",
+            "name": "Holimont ",
+            "encoded_name": "holimont-ski-area"
+        },
+        {
+            "country": "Austria",
+            "name": "Hollersbach",
+            "encoded_name": "hollersbach"
+        },
+        {
+            "country": "United States",
+            "name": "Homewood Mountain",
+            "encoded_name": "homewood-mountain-resort"
+        },
+        {
+            "country": "United States",
+            "name": "Hoodoo",
+            "encoded_name": "hoodoo-ski-area"
+        },
+        {
+            "country": "Austria",
+            "name": "Hopfgarten",
+            "encoded_name": "hopfgarten"
+        },
+        {
+            "country": "Canada",
+            "name": "Horseshoe Resort",
+            "encoded_name": "horseshoe-resort"
+        },
+        {
+            "country": "United States",
+            "name": "Howelsen Hill",
+            "encoded_name": "howelsen-hill"
+        },
+        {
+            "country": "Canada",
+            "name": "Hudson Bay Mountain",
+            "encoded_name": "hudson-bay-mountain"
+        },
+        {
+            "country": "France",
+            "name": "Huez",
+            "encoded_name": "huez"
+        },
+        {
+            "country": "United States",
+            "name": "Hunter Mountain",
+            "encoded_name": "hunter-mountain"
+        },
+        {
+            "country": "United States",
+            "name": "Hyland ",
+            "encoded_name": "hyland-ski-snowboard-area"
+        },
+        {
+            "country": "Sweden",
+            "name": "Idrefjäll",
+            "encoded_name": "idrefjall"
+        },
+        {
+            "country": "Austria",
+            "name": "Inneralpbach",
+            "encoded_name": "inneralpbach"
+        },
+        {
+            "country": "Italy",
+            "name": "Innichen San Candido",
+            "encoded_name": "innichen-san-candido"
+        },
+        {
+            "country": "Austria",
+            "name": "Ischgl",
+            "encoded_name": "ischgl"
+        },
+        {
+            "country": "Finland",
+            "name": "Iso - Syöte",
+            "encoded_name": "iso-syote"
+        },
+        {
+            "country": "France",
+            "name": "Isola 2000",
+            "encoded_name": "isola-2000"
+        },
+        {
+            "country": "Austria",
+            "name": "Itter",
+            "encoded_name": "itter"
+        },
+        {
+            "country": "United States",
+            "name": "Jack Frost",
+            "encoded_name": "jack-frost"
+        },
+        {
+            "country": "United States",
+            "name": "Jackson Hole",
+            "encoded_name": "jackson-hole"
+        },
+        {
+            "country": "Switzerland",
+            "name": "Jakobsbad - Kronberg",
+            "encoded_name": "jakobsbad-kronberg"
+        },
+        {
+            "country": "Slovakia",
+            "name": "Jasna",
+            "encoded_name": "jasna"
+        },
+        {
+            "country": "Spain",
+            "name": "Javalambre",
+            "encoded_name": "javalambre"
+        },
+        {
+            "country": "United States",
+            "name": "Jay Peak",
+            "encoded_name": "jay-peak"
+        },
+        {
+            "country": "United States",
+            "name": "Jiminy Peak",
+            "encoded_name": "jiminy-peak"
+        },
+        {
+            "country": "Austria",
+            "name": "Jochberg",
+            "encoded_name": "jochberg"
+        },
+        {
+            "country": "United States",
+            "name": "June Mountain",
+            "encoded_name": "june-mountain"
+        },
+        {
+            "country": "Switzerland",
+            "name": "Jungfrau",
+            "encoded_name": "jungfrau"
+        },
+        {
+            "country": "Austria",
+            "name": "Kaltenbach",
+            "encoded_name": "kaltenbach"
+        },
+        {
+            "country": "Poland",
+            "name": "Kamienica",
+            "encoded_name": "kamienica"
+        },
+        {
+            "country": "Switzerland",
+            "name": "Kandersteg",
+            "encoded_name": "kandersteg"
+        },
+        {
+            "country": "Slovenia",
+            "name": "Kanin - Bovec",
+            "encoded_name": "kanin-bovec"
+        },
+        {
+            "country": "Poland",
+            "name": "Kaniówka",
+            "encoded_name": "kaniowka"
+        },
+        {
+            "country": "Austria",
+            "name": "Kappl",
+            "encoded_name": "kappl"
+        },
+        {
+            "country": "Austria",
+            "name": "Kaprun",
+            "encoded_name": "kaprun"
+        },
+        {
+            "country": "Poland",
+            "name": "Kasprowy Wierch",
+            "encoded_name": "kasprowy-wierch"
+        },
+        {
+            "country": "Austria",
+            "name": "Kelchsau",
+            "encoded_name": "kelchsau"
+        },
+        {
+            "country": "United States",
+            "name": "Kelly Canyon",
+            "encoded_name": "kelly-canyon-ski-area"
+        },
+        {
+            "country": "United States",
+            "name": "Keystone",
+            "encoded_name": "keystone"
+        },
+        {
+            "country": "Canada",
+            "name": "Kicking Horse",
+            "encoded_name": "kicking-horse"
+        },
+        {
+            "country": "Switzerland",
+            "name": "Kiental",
+            "encoded_name": "kiental"
+        },
+        {
+            "country": "United States",
+            "name": "Killington Resort",
+            "encoded_name": "killington-resort"
+        },
+        {
+            "country": "Canada",
+            "name": "Kimberley",
+            "encoded_name": "kimberley"
+        },
+        {
+            "country": "United States",
+            "name": "King Pine",
+            "encoded_name": "king-pine"
+        },
+        {
+            "country": "Austria",
+            "name": "Kirchberg",
+            "encoded_name": "kirchberg"
+        },
+        {
+            "country": "Austria",
+            "name": "Kirchdorf in Tirol",
+            "encoded_name": "kirchdorf-in-tirol"
+        },
+        {
+            "country": "United States",
+            "name": "Kirkwood",
+            "encoded_name": "kirkwood"
+        },
+        {
+            "country": "United States",
+            "name": "Kissing Bridge",
+            "encoded_name": "kissing-bridge"
+        },
+        {
+            "country": "Austria",
+            "name": "Kitzbühel",
+            "encoded_name": "kitzbuhel"
+        },
+        {
+            "country": "Sweden",
+            "name": "Kläppen",
+            "encoded_name": "klappen"
+        },
+        {
+            "country": "Czech Republic",
+            "name": "Klínovec",
+            "encoded_name": "klínovec"
+        },
+        {
+            "country": "Switzerland",
+            "name": "Klosters",
+            "encoded_name": "klosters"
+        },
+        {
+            "country": "Slovenia",
+            "name": "Kobla",
+            "encoded_name": "kobla"
+        },
+        {
+            "country": "Austria",
+            "name": "Königsleiten",
+            "encoded_name": "konigsleiten"
+        },
+        {
+            "country": "Poland",
+            "name": "Kotelnica",
+            "encoded_name": "Kotelnica"
+        },
+        {
+            "country": "Slovenia",
+            "name": "Kranjska Gora",
+            "encoded_name": "kranjska-gora"
+        },
+        {
+            "country": "Slovenia",
+            "name": "Krvavec",
+            "encoded_name": "krvavec"
+        },
+        {
+            "country": "Norway",
+            "name": "Kvitfjell",
+            "encoded_name": "kvitfjell"
+        },
+        {
+            "country": "France",
+            "name": "La Chapelle d'Abondance",
+            "encoded_name": "la-chapelle-dabondance"
+        },
+        {
+            "country": "France",
+            "name": "La Chevrerie",
+            "encoded_name": "la-chevrerie"
+        },
+        {
+            "country": "France",
+            "name": "La Clusaz",
+            "encoded_name": "la-clusaz"
+        },
+        {
+            "country": "France",
+            "name": "La Daille",
+            "encoded_name": "la-daille"
+        },
+        {
+            "country": "Switzerland",
+            "name": "La Dole",
+            "encoded_name": "la-dole"
+        },
+        {
+            "country": "France",
+            "name": "La Faucille",
+            "encoded_name": "la-faucille"
+        },
+        {
+            "country": "France",
+            "name": "La Grave",
+            "encoded_name": "la-grave-la-meije"
+        },
+        {
+            "country": "France",
+            "name": "La Joue du Loup",
+            "encoded_name": "la-joue-du-loup"
+        },
+        {
+            "country": "Switzerland",
+            "name": "La Lécherette",
+            "encoded_name": "la-lecherette"
+        },
+        {
+            "country": "Spain",
+            "name": "La Molina",
+            "encoded_name": "la-molina"
+        },
+        {
+            "country": "France",
+            "name": "La Mongie",
+            "encoded_name": "la-mongie"
+        },
+        {
+            "country": "France",
+            "name": "La Plagne",
+            "encoded_name": "la-plagne"
+        },
+        {
+            "country": "France",
+            "name": "La Rosiere",
+            "encoded_name": "la-rosiere"
+        },
+        {
+            "country": "France",
+            "name": "La Serra",
+            "encoded_name": "la-serra"
+        },
+        {
+            "country": "France",
+            "name": "La Tania",
+            "encoded_name": "la-tania"
+        },
+        {
+            "country": "Italy",
+            "name": "La Thuile",
+            "encoded_name": "la-thuile"
+        },
+        {
+            "country": "France",
+            "name": "La Toussuire",
+            "encoded_name": "la-toussuire"
+        },
+        {
+            "country": "Switzerland",
+            "name": "La Tzoumaz",
+            "encoded_name": "la-tzoumaz"
+        },
+        {
+            "country": "Italy",
+            "name": "La Villa",
+            "encoded_name": "la-villa"
+        },
+        {
+            "country": "Switzerland",
+            "name": "Laax",
+            "encoded_name": "laax"
+        },
+        {
+            "country": "Austria",
+            "name": "Ladis",
+            "encoded_name": "ladis"
+        },
+        {
+            "country": "Sweden",
+            "name": "Långberget",
+            "encoded_name": "langberget"
+        },
+        {
+            "country": "France",
+            "name": "Lans en Vercors",
+            "encoded_name": "lans-en-vercors"
+        },
+        {
+            "country": "France",
+            "name": "Lanslebourg",
+            "encoded_name": "lanslebourg"
+        },
+        {
+            "country": "France",
+            "name": "Lanslevillard",
+            "encoded_name": "lanslevillard"
+        },
+        {
+            "country": "Italy",
+            "name": "Lavarone",
+            "encoded_name": "lavarone"
+        },
+        {
+            "country": "France",
+            "name": "Laye en Champsaur",
+            "encoded_name": "laye-en-champsaur"
+        },
+        {
+            "country": "France",
+            "name": "Le Chioula",
+            "encoded_name": "le-chioula"
+        },
+        {
+            "country": "France",
+            "name": "Le Corbier",
+            "encoded_name": "le-corbier"
+        },
+        {
+            "country": "France",
+            "name": "Le Fornet",
+            "encoded_name": "le-fornet"
+        },
+        {
+            "country": "France",
+            "name": "Le Grand Bornand",
+            "encoded_name": "le-grand-bornand"
+        },
+        {
+            "country": "France",
+            "name": "Le Haut",
+            "encoded_name": "le-haut"
+        },
+        {
+            "country": "Canada",
+            "name": "Le Massif",
+            "encoded_name": "le-massif"
+        },
+        {
+            "country": "France",
+            "name": "Le Monetier les Bains",
+            "encoded_name": "le-monetier-les-bains"
+        },
+        {
+            "country": "France",
+            "name": "Le Mont Dore",
+            "encoded_name": "le-mont-dore"
+        },
+        {
+            "country": "France",
+            "name": "Le Mourtis",
+            "encoded_name": "le-mourtis"
+        },
+        {
+            "country": "France",
+            "name": "Le Planay",
+            "encoded_name": "le-planay"
+        },
+        {
+            "country": "France",
+            "name": "Le Reposoir",
+            "encoded_name": "le-reposoir"
+        },
+        {
+            "country": "France",
+            "name": "Le Sappey en Chartreuse",
+            "encoded_name": "le-sappey-en-chartreuse"
+        },
+        {
+            "country": "France",
+            "name": "Le Tour",
+            "encoded_name": "le-tour"
+        },
+        {
+            "country": "Austria",
+            "name": "Lech ",
+            "encoded_name": "lech"
+        },
+        {
+            "country": "France",
+            "name": "Lelex",
+            "encoded_name": "lelex"
+        },
+        {
+            "country": "Switzerland",
+            "name": "Lenk Bergbahnen",
+            "encoded_name": "lenk-im-simmental"
+        },
+        {
+            "country": "Switzerland",
+            "name": "Lenzerheide",
+            "encoded_name": "lenzerheide"
+        },
+        {
+            "country": "Austria",
+            "name": "Leogang",
+            "encoded_name": "leogang"
+        },
+        {
+            "country": "Austria",
+            "name": "Lermoos",
+            "encoded_name": "lermoos"
+        },
+        {
+            "country": "France",
+            "name": "Les 2 Alpes",
+            "encoded_name": "les-2-alpes"
+        },
+        {
+            "country": "France",
+            "name": "Les 7 Laux",
+            "encoded_name": "les-7-laux"
+        },
+        {
+            "country": "France",
+            "name": "Les Allues",
+            "encoded_name": "les-allues"
+        },
+        {
+            "country": "France",
+            "name": "Les Angles",
+            "encoded_name": "les-angles"
+        },
+        {
+            "country": "France",
+            "name": "Les Arc 1600",
+            "encoded_name": "les-arc-1600"
+        },
+        {
+            "country": "France",
+            "name": "Les Arc 1800",
+            "encoded_name": "les-arc-1800"
+        },
+        {
+            "country": "France",
+            "name": "Les Arc 1950",
+            "encoded_name": "les-arc-1950"
+        },
+        {
+            "country": "France",
+            "name": "Les Arc 2000",
+            "encoded_name": "les-arc-2000"
+        },
+        {
+            "country": "Switzerland",
+            "name": "Les Avants",
+            "encoded_name": "les-avants"
+        },
+        {
+            "country": "France",
+            "name": "Les Bottières",
+            "encoded_name": "les-bottieres"
+        },
+        {
+            "country": "France",
+            "name": "Les Carroz",
+            "encoded_name": "les-carroz"
+        },
+        {
+            "country": "France",
+            "name": "Les Coches",
+            "encoded_name": "les-coches"
+        },
+        {
+            "country": "France",
+            "name": "Les Contamines Mont Joie",
+            "encoded_name": "les-contamines-mont-joie"
+        },
+        {
+            "country": "Switzerland",
+            "name": "Les Crosets",
+            "encoded_name": "les-crosets"
+        },
+        {
+            "country": "Switzerland",
+            "name": "Les Diablerets",
+            "encoded_name": "les-diablerets"
+        },
+        {
+            "country": "France",
+            "name": "Les Fourgs",
+            "encoded_name": "les-fourgs"
+        },
+        {
+            "country": "France",
+            "name": "Les Gets",
+            "encoded_name": "les-gets"
+        },
+        {
+            "country": "France",
+            "name": "Les Habères",
+            "encoded_name": "les-haberes"
+        },
+        {
+            "country": "France",
+            "name": "Les Houches",
+            "encoded_name": "les-houches"
+        },
+        {
+            "country": "France",
+            "name": "Les Karellis",
+            "encoded_name": "les-karellis"
+        },
+        {
+            "country": "France",
+            "name": "Les Menuires",
+            "encoded_name": "les-menuires"
+        },
+        {
+            "country": "Switzerland",
+            "name": "Les Mosses",
+            "encoded_name": "les-mosses"
+        },
+        {
+            "country": "France",
+            "name": "Les Rousses",
+            "encoded_name": "les-rousses"
+        },
+        {
+            "country": "France",
+            "name": "Les Saisies",
+            "encoded_name": "les-saisies"
+        },
+        {
+            "country": "Finland",
+            "name": "Levi",
+            "encoded_name": "levi"
+        },
+        {
+            "country": "Switzerland",
+            "name": "Leysin",
+            "encoded_name": "leysin"
+        },
+        {
+            "country": "United States",
+            "name": "Liberty",
+            "encoded_name": "liberty"
+        },
+        {
+            "country": "Germany",
+            "name": "Liftverbund Feldberg",
+            "encoded_name": "liftverbund-feldberg"
+        },
+        {
+            "country": "Italy",
+            "name": "Livigno",
+            "encoded_name": "livigno"
+        },
+        {
+            "country": "Canada",
+            "name": "Loch Lomond",
+            "encoded_name": "loch-lomond"
+        },
+        {
+            "country": "Sweden",
+            "name": "Lofsdalen",
+            "encoded_name": "lofsdalen"
+        },
+        {
+            "country": "United States",
+            "name": "Lookout Pass",
+            "encoded_name": "lookout-pass-ski-area"
+        },
+        {
+            "country": "United States",
+            "name": "Loon Mountain",
+            "encoded_name": "loon-mountain"
+        },
+        {
+            "country": "United States",
+            "name": "Lost Trail - Powder Mtn",
+            "encoded_name": "lost-trail-powder-mtn"
+        },
+        {
+            "country": "United States",
+            "name": "Lost Valley",
+            "encoded_name": "lost-valley"
+        },
+        {
+            "country": "United States",
+            "name": "Loveland",
+            "encoded_name": "loveland"
+        },
+        {
+            "country": "United States",
+            "name": "Lutsen Mountains",
+            "encoded_name": "lutsen-mountains"
+        },
+        {
+            "country": "United States",
+            "name": "Mad River Glen",
+            "encoded_name": "mad-river-glen"
+        },
+        {
+            "country": "United States",
+            "name": "Mad River Mountain",
+            "encoded_name": "mad-river-mountain"
+        },
+        {
+            "country": "Italy",
+            "name": "Madonna di Campiglio",
+            "encoded_name": "madonna-di-campiglio"
+        },
+        {
+            "country": "United States",
+            "name": "Magic Mountain VT",
+            "encoded_name": "magic-mountain"
+        },
+        {
+            "country": "United States",
+            "name": "Magic Mountain Idaho",
+            "encoded_name": "magic-mountain-ski-area"
+        },
+        {
+            "country": "United States",
+            "name": "Mammoth Mountain",
+            "encoded_name": "mammoth-mountain"
+        },
+        {
+            "country": "New Zealand",
+            "name": "Manganui",
+            "encoded_name": "manganui"
+        },
+        {
+            "country": "France",
+            "name": "Manigod",
+            "encoded_name": "manigod"
+        },
+        {
+            "country": "Spain",
+            "name": "Manzaneda",
+            "encoded_name": "manzaneda"
+        },
+        {
+            "country": "United States",
+            "name": "Maple Ski Ridge",
+            "encoded_name": "maple-ski-ridge"
+        },
+        {
+            "country": "Switzerland",
+            "name": "Marbach - Marbachegg",
+            "encoded_name": "marbach-marbachegg"
+        },
+        {
+            "country": "Slovenia",
+            "name": "Maribor Pohorje",
+            "encoded_name": "maribor-pohorje"
+        },
+        {
+            "country": "Italy",
+            "name": "Marilléva",
+            "encoded_name": "marilleva"
+        },
+        {
+            "country": "Canada",
+            "name": "Marmot Basin",
+            "encoded_name": "marmot-basin"
+        },
+        {
+            "country": "United States",
+            "name": "Marquette Mountain",
+            "encoded_name": "marquette-mountain"
+        },
+        {
+            "country": "Spain",
+            "name": "Masella",
+            "encoded_name": "masella"
+        },
+        {
+            "country": "United States",
+            "name": "Massanutten",
+            "encoded_name": "massanutten"
+        },
+        {
+            "country": "United States",
+            "name": "Maverick Mountain",
+            "encoded_name": "maverick-mountain"
+        },
+        {
+            "country": "Austria",
+            "name": "Mayrhofen",
+            "encoded_name": "mayrhofen"
+        },
+        {
+            "country": "United States",
+            "name": "McCauley Mountain",
+            "encoded_name": "mccauley-mountain-ski-center"
+        },
+        {
+            "country": "France",
+            "name": "Megeve",
+            "encoded_name": "megeve"
+        },
+        {
+            "country": "Austria",
+            "name": "Mellau",
+            "encoded_name": "mellau"
+        },
+        {
+            "country": "France",
+            "name": "Menthières",
+            "encoded_name": "menthieres"
+        },
+        {
+            "country": "France",
+            "name": "Meribel Centre",
+            "encoded_name": "meribel-centre"
+        },
+        {
+            "country": "France",
+            "name": "Meribel Mottaret",
+            "encoded_name": "meribel-mottaret"
+        },
+        {
+            "country": "France",
+            "name": "Métabief Mont d'Or",
+            "encoded_name": "metabief-mont-dor"
+        },
+        {
+            "country": "France",
+            "name": "Mijoux",
+            "encoded_name": "mijoux"
+        },
+        {
+            "country": "United States",
+            "name": "Mission Ridge",
+            "encoded_name": "mission-ridge"
+        },
+        {
+            "country": "United States",
+            "name": "Mohawk Mountain",
+            "encoded_name": "mohawk-mountain"
+        },
+        {
+            "country": "France",
+            "name": "Molines - Saint Veran",
+            "encoded_name": "molines-saint-veran"
+        },
+        {
+            "country": "United States",
+            "name": "Monarch Mountain",
+            "encoded_name": "monarch-mountain"
+        },
+        {
+            "country": "Canada",
+            "name": "Mont Blanc Quebec",
+            "encoded_name": "mont-blanc"
+        },
+        {
+            "country": "Canada",
+            "name": "Mont Cascades",
+            "encoded_name": "mont-cascades"
+        },
+        {
+            "country": "Canada",
+            "name": "Mont Orford",
+            "encoded_name": "mont-orford"
+        },
+        {
+            "country": "United States",
+            "name": "Mont Ripley",
+            "encoded_name": "mont-ripley"
+        },
+        {
+            "country": "Canada",
+            "name": "Mont Sainte Anne",
+            "encoded_name": "mont-sainte-anne"
+        },
+        {
+            "country": "Canada",
+            "name": "Mont Ste-Marie",
+            "encoded_name": "mont-ste-marie"
+        },
+        {
+            "country": "Canada",
+            "name": "Mont Sutton",
+            "encoded_name": "mont-sutton"
+        },
+        {
+            "country": "Canada",
+            "name": "Mont Tremblant",
+            "encoded_name": "mont-tremblant"
+        },
+        {
+            "country": "France",
+            "name": "Montalbert",
+            "encoded_name": "montalbert"
+        },
+        {
+            "country": "Switzerland",
+            "name": "Montana",
+            "encoded_name": "montana"
+        },
+        {
+            "country": "United States",
+            "name": "Montana Snowbowl",
+            "encoded_name": "montana-snowbowl"
+        },
+        {
+            "country": "France",
+            "name": "Montchavin",
+            "encoded_name": "montchavin"
+        },
+        {
+            "country": "France",
+            "name": "Montgenèvre",
+            "encoded_name": "montgenvre"
+        },
+        {
+            "country": "France",
+            "name": "Montriond",
+            "encoded_name": "montriond"
+        },
+        {
+            "country": "France",
+            "name": "Monts Jura",
+            "encoded_name": "monts-jura"
+        },
+        {
+            "country": "Switzerland",
+            "name": "Morel",
+            "encoded_name": "morel"
+        },
+        {
+            "country": "Switzerland",
+            "name": "Morgins",
+            "encoded_name": "morgins"
+        },
+        {
+            "country": "France",
+            "name": "Morillon",
+            "encoded_name": "morillon"
+        },
+        {
+            "country": "France",
+            "name": "Morzine",
+            "encoded_name": "morzine"
+        },
+        {
+            "country": "United States",
+            "name": "Mount Ashland",
+            "encoded_name": "mt-ashland"
+        },
+        {
+            "country": "United States",
+            "name": "Mount Bachelor",
+            "encoded_name": "mt-bachelor"
+        },
+        {
+            "country": "United States",
+            "name": "Mount Baker",
+            "encoded_name": "mt-baker"
+        },
+        {
+            "country": "Australia",
+            "name": "Mount Baw Baw",
+            "encoded_name": "mount-baw-baw"
+        },
+        {
+            "country": "United States",
+            "name": "Mount Brighton",
+            "encoded_name": "mt-brighton"
+        },
+        {
+            "country": "Australia",
+            "name": "Mount Buller",
+            "encoded_name": "mount-buller"
+        },
+        {
+            "country": "United States",
+            "name": "Mount Crescent",
+            "encoded_name": "mt-crescent-ski-area"
+        },
+        {
+            "country": "United States",
+            "name": "Mount Holiday",
+            "encoded_name": "mt-holiday-ski-area"
+        },
+        {
+            "country": "United States",
+            "name": "Mount Holly",
+            "encoded_name": "mount-holly"
+        },
+        {
+            "country": "United States",
+            "name": "Mount Hood Meadows",
+            "encoded_name": "mt-hood-meadows"
+        },
+        {
+            "country": "United States",
+            "name": "Mount Hood Skibowl",
+            "encoded_name": "mt-hood-skibowl"
+        },
+        {
+            "country": "Australia",
+            "name": "Mount Hotham ",
+            "encoded_name": "mount-hotham"
+        },
+        {
+            "country": "United States",
+            "name": "Mount Jefferson",
+            "encoded_name": "mt-jefferson"
+        },
+        {
+            "country": "United States",
+            "name": "Mount Kato",
+            "encoded_name": "mount-kato-ski-area"
+        },
+        {
+            "country": "United States",
+            "name": "Mount La Crosse",
+            "encoded_name": "mount-la-crosse"
+        },
+        {
+            "country": "United States",
+            "name": "Mount Peter",
+            "encoded_name": "mount-peter-ski-area"
+        },
+        {
+            "country": "United States",
+            "name": "Mount Rose",
+            "encoded_name": "mt-rose-ski-tahoe"
+        },
+        {
+            "country": "United States",
+            "name": "Mount Shasta",
+            "encoded_name": "mt-shasta-ski-park"
+        },
+        {
+            "country": "United States",
+            "name": "Mount Snow",
+            "encoded_name": "mount-snow"
+        },
+        {
+            "country": "United States",
+            "name": "Mount Southington",
+            "encoded_name": "mount-southington-ski-area"
+        },
+        {
+            "country": "United States",
+            "name": "Mount Spokane",
+            "encoded_name": "mt-spokane-ski-and-snowboard-park"
+        },
+        {
+            "country": "Canada",
+            "name": "Mount St Louis-Moonstone",
+            "encoded_name": "mt-st-louis-moonstone"
+        },
+        {
+            "country": "United States",
+            "name": "Mount Sunapee",
+            "encoded_name": "mount-sunapee"
+        },
+        {
+            "country": "Canada",
+            "name": "Mount Washington Alpine Resort",
+            "encoded_name": "mt-washington-alpine-resort"
+        },
+        {
+            "country": "United States",
+            "name": "Mountain Creek Resort",
+            "encoded_name": "mountain-creek-resort"
+        },
+        {
+            "country": "United States",
+            "name": "Mountain High",
+            "encoded_name": "mountain-high"
+        },
+        {
+            "country": "Canada",
+            "name": "Mt Baldy",
+            "encoded_name": "mt-baldy"
+        },
+        {
+            "country": "New Zealand",
+            "name": "Mt Cheeseman",
+            "encoded_name": "mt-cheeseman"
+        },
+        {
+            "country": "New Zealand",
+            "name": "Mt Dobson",
+            "encoded_name": "mt-dobson"
+        },
+        {
+            "country": "New Zealand",
+            "name": "Mt Hutt",
+            "encoded_name": "mt-nutt"
+        },
+        {
+            "country": "New Zealand",
+            "name": "Mt Lyford",
+            "encoded_name": "mt-lyford"
+        },
+        {
+            "country": "New Zealand",
+            "name": "Mt Olympus",
+            "encoded_name": "mt-olympus"
+        },
+        {
+            "country": "Canada",
+            "name": "Mt Pakenham",
+            "encoded_name": "mt-pakenham"
+        },
+        {
+            "country": "Canada",
+            "name": "Mt Seymour",
+            "encoded_name": "mt-seymour"
+        },
+        {
+            "country": "United States",
+            "name": "Mt. Abram Ski Resort",
+            "encoded_name": "mt-abram-ski-resort"
+        },
+        {
+            "country": "Switzerland",
+            "name": "Mürren",
+            "encoded_name": "murren"
+        },
+        {
+            "country": "Norway",
+            "name": "Myrkdalen",
+            "encoded_name": "myrkdalen"
+        },
+        {
+            "country": "Canada",
+            "name": "Nakiska",
+            "encoded_name": "nakiska-ski-area"
+        },
+        {
+            "country": "Norway",
+            "name": "Narvik",
+            "encoded_name": "narvik"
+        },
+        {
+            "country": "United States",
+            "name": "Nashoba Valley",
+            "encoded_name": "nashoba-valley"
+        },
+        {
+            "country": "Austria",
+            "name": "Nassfeld ",
+            "encoded_name": "nassfeld"
+        },
+        {
+            "country": "Austria",
+            "name": "Nauders",
+            "encoded_name": "nauders"
+        },
+        {
+            "country": "Switzerland",
+            "name": "Nax",
+            "encoded_name": "nax"
+        },
+        {
+            "country": "Switzerland",
+            "name": "Nendaz",
+            "encoded_name": "nendaz"
+        },
+        {
+            "country": "United Kingdom",
+            "name": "Nevis Range",
+            "encoded_name": "nevis-range"
+        },
+        {
+            "country": "United States",
+            "name": "New Hermon Mountain",
+            "encoded_name": "new-hermon-mountain"
+        },
+        {
+            "country": "Austria",
+            "name": "Niederau",
+            "encoded_name": "niederau"
+        },
+        {
+            "country": "Italy",
+            "name": "Niederdorf Villabassa",
+            "encoded_name": "niederdorf-villabassa"
+        },
+        {
+            "country": "France",
+            "name": "Nistos",
+            "encoded_name": "nistos"
+        },
+        {
+            "country": "Austria",
+            "name": "Nockalmbahn",
+            "encoded_name": "nockalmbahn"
+        },
+        {
+            "country": "United States",
+            "name": "Nordic Mountain",
+            "encoded_name": "nordic-mountain"
+        },
+        {
+            "country": "Norway",
+            "name": "Norefjell",
+            "encoded_name": "norefjell"
+        },
+        {
+            "country": "United States",
+            "name": "Northstar California",
+            "encoded_name": "northstar-california"
+        },
+        {
+            "country": "United States",
+            "name": "Norway Mountain",
+            "encoded_name": "norway-mountain"
+        },
+        {
+            "country": "France",
+            "name": "Notre Dame de Bellecombe",
+            "encoded_name": "notre-dame-de-bellecombe"
+        },
+        {
+            "country": "United States",
+            "name": "Nubs Nob",
+            "encoded_name": "nubs-nob-ski-area"
+        },
+        {
+            "country": "United States",
+            "name": "Ober Gatlinburg Ski Resort",
+            "encoded_name": "ober-gatlinburg-ski-resort"
+        },
+        {
+            "country": "Austria",
+            "name": "Oberau",
+            "encoded_name": "oberau"
+        },
+        {
+            "country": "Austria",
+            "name": "Obergurgl",
+            "encoded_name": "obergurgl"
+        },
+        {
+            "country": "Austria",
+            "name": "Obertauern",
+            "encoded_name": "obertauern"
+        },
+        {
+            "country": "New Zealand",
+            "name": "Ohau",
+            "encoded_name": "ohau"
+        },
+        {
+            "country": "United States",
+            "name": "Okemo Mountain Resort",
+            "encoded_name": "okemo-mountain-resort"
+        },
+        {
+            "country": "France",
+            "name": "Orcières Merlette",
+            "encoded_name": "orcieres-merlette"
+        },
+        {
+            "country": "Andorra",
+            "name": "Ordino Arcalis",
+            "encoded_name": "ordino-arcalis"
+        },
+        {
+            "country": "France",
+            "name": "Orelle",
+            "encoded_name": "orelle"
+        },
+        {
+            "country": "Italy",
+            "name": "Ortisei",
+            "encoded_name": "ortisei"
+        },
+        {
+            "country": "United States",
+            "name": "Otis Ridge",
+            "encoded_name": "otis-ridge-ski-area"
+        },
+        {
+            "country": "Canada",
+            "name": "Owl's Head",
+            "encoded_name": "owls-head"
+        },
+        {
+            "country": "France",
+            "name": "Oz en Oisans",
+            "encoded_name": "oz-en-oisans"
+        },
+        {
+            "country": "Italy",
+            "name": "Padola",
+            "encoded_name": "padola"
+        },
+        {
+            "country": "United States",
+            "name": "Pajarito Mountain",
+            "encoded_name": "pajarito-mountain-ski-area"
+        },
+        {
+            "country": "Bulgaria",
+            "name": "Pamporovo",
+            "encoded_name": "pamporovo"
+        },
+        {
+            "country": "Canada",
+            "name": "Panorama",
+            "encoded_name": "panorama"
+        },
+        {
+            "country": "United States",
+            "name": "Paoli Peaks",
+            "encoded_name": "paoli-peaks"
+        },
+        {
+            "country": "France",
+            "name": "Paradiski",
+            "encoded_name": "paradiski"
+        },
+        {
+            "country": "United States",
+            "name": "Park City",
+            "encoded_name": "park-city"
+        },
+        {
+            "country": "Switzerland",
+            "name": "Parpan",
+            "encoded_name": "parpan"
+        },
+        {
+            "country": "Andorra",
+            "name": "Pas de la Casa",
+            "encoded_name": "pas-de-la-casa"
+        },
+        {
+            "country": "Austria",
+            "name": "Pass Thurn",
+            "encoded_name": "pass-thurn"
+        },
+        {
+            "country": "Italy",
+            "name": "Passo Rolle",
+            "encoded_name": "passo-rolle"
+        },
+        {
+            "country": "United States",
+            "name": "Pats Peak",
+            "encoded_name": "pats-peak"
+        },
+        {
+            "country": "United States",
+            "name": "Pebble Creek",
+            "encoded_name": "pebble-creek-ski-area"
+        },
+        {
+            "country": "United States",
+            "name": "Peek'n Peak",
+            "encoded_name": "peekn-peak"
+        },
+        {
+            "country": "United States",
+            "name": "Perfect North Slopes",
+            "encoded_name": "perfect-north-slopes"
+        },
+        {
+            "country": "Australia",
+            "name": "Perisher",
+            "encoded_name": "perisher"
+        },
+        {
+            "country": "Italy",
+            "name": "Pescasseroli",
+            "encoded_name": "pescasseroli"
+        },
+        {
+            "country": "Italy",
+            "name": "Pescegallo - Valgerola",
+            "encoded_name": "pescegallo-valgerola"
+        },
+        {
+            "country": "Italy",
+            "name": "Pescocostanzo",
+            "encoded_name": "pescocostanzo"
+        },
+        {
+            "country": "Austria",
+            "name": "Petzen",
+            "encoded_name": "petzen"
+        },
+        {
+            "country": "France",
+            "name": "Peyragudes",
+            "encoded_name": "peyragudes"
+        },
+        {
+            "country": "Italy",
+            "name": "Pian delle Betulle - Alpe di Paglio",
+            "encoded_name": "pian-delle-betulle-alpe-di-paglio"
+        },
+        {
+            "country": "United States",
+            "name": "Pico Mountain",
+            "encoded_name": "pico-mountain"
+        },
+        {
+            "country": "United States",
+            "name": "Pine Mountain",
+            "encoded_name": "pine-mountain"
+        },
+        {
+            "country": "France",
+            "name": "Plagne 1800",
+            "encoded_name": "plagne-1800"
+        },
+        {
+            "country": "France",
+            "name": "Plagne Bellecote",
+            "encoded_name": "plagne-bellecote"
+        },
+        {
+            "country": "France",
+            "name": "Plagne Centre",
+            "encoded_name": "plagne-centre"
+        },
+        {
+            "country": "France",
+            "name": "Plagne Soleil",
+            "encoded_name": "plagne-soleil"
+        },
+        {
+            "country": "France",
+            "name": "Plagne Villages",
+            "encoded_name": "plagne-villages"
+        },
+        {
+            "country": "Italy",
+            "name": "Plan de Corones / Kronplatz",
+            "encoded_name": "plan-de-corones-kronplatz"
+        },
+        {
+            "country": "France",
+            "name": "Plan Peisey",
+            "encoded_name": "plan-peisey"
+        },
+        {
+            "country": "United States",
+            "name": "Plattekill Mountain",
+            "encoded_name": "plattekill-mountain"
+        },
+        {
+            "country": "United States",
+            "name": "Pomerelle Mountain Resort",
+            "encoded_name": "pomerelle-mountain-resort"
+        },
+        {
+            "country": "Italy",
+            "name": "Ponte di legno",
+            "encoded_name": "ponte-di-legno"
+        },
+        {
+            "country": "New Zealand",
+            "name": "Porters",
+            "encoded_name": "porters"
+        },
+        {
+            "country": "United States",
+            "name": "Powder Mountain",
+            "encoded_name": "powder-mountain"
+        },
+        {
+            "country": "United States",
+            "name": "Powder Ridge",
+            "encoded_name": "powder-ridge-ski-area"
+        },
+        {
+            "country": "United States",
+            "name": "Powderhorn",
+            "encoded_name": "powderhorn"
+        },
+        {
+            "country": "Italy",
+            "name": "Pozza di Fassa - Aloch - Buffaure",
+            "encoded_name": "pozza-di-fassa-aloch-buffaure"
+        },
+        {
+            "country": "France",
+            "name": "Pra Loup",
+            "encoded_name": "pra-loup"
+        },
+        {
+            "country": "France",
+            "name": "Praz de Lys",
+            "encoded_name": "praz-de-lys"
+        },
+        {
+            "country": "France",
+            "name": "Praz sur Arly",
+            "encoded_name": "praz-sur-arly"
+        },
+        {
+            "country": "United States",
+            "name": "Purgatory",
+            "encoded_name": "purgatory"
+        },
+        {
+            "country": "United States",
+            "name": "Ragged Mountain Resort",
+            "encoded_name": "ragged-mountain-resort"
+        },
+        {
+            "country": "New Zealand",
+            "name": "Rainbow",
+            "encoded_name": "rainbow"
+        },
+        {
+            "country": "United States",
+            "name": "Red Lodge Mountain",
+            "encoded_name": "red-lodge-mountain"
+        },
+        {
+            "country": "Canada",
+            "name": "Red Mountain",
+            "encoded_name": "red-mountain"
+        },
+        {
+            "country": "United States",
+            "name": "Red River",
+            "encoded_name": "red-river"
+        },
+        {
+            "country": "Austria",
+            "name": "Reith im Alpbachtal",
+            "encoded_name": "reith-im-alpbachtal"
+        },
+        {
+            "country": "Canada",
+            "name": "Revelstoke",
+            "encoded_name": "revelstoke"
+        },
+        {
+            "country": "Sweden",
+            "name": "Riksgränsen",
+            "encoded_name": "riksgransen"
+        },
+        {
+            "country": "France",
+            "name": "Risoul",
+            "encoded_name": "risoul"
+        },
+        {
+            "country": "Italy",
+            "name": "Roccaraso",
+            "encoded_name": "roccaraso"
+        },
+        {
+            "country": "Slovenia",
+            "name": "Rogla",
+            "encoded_name": "rogla"
+        },
+        {
+            "country": "Switzerland",
+            "name": "Rougemont",
+            "encoded_name": "rougemont"
+        },
+        {
+            "country": "New Zealand",
+            "name": "Roundhill",
+            "encoded_name": "roundhill"
+        },
+        {
+            "country": "United States",
+            "name": "Roundtop Mountain Resort",
+            "encoded_name": "roundtop-mountain-resort"
+        },
+        {
+            "country": "United States",
+            "name": "Royal Mountain",
+            "encoded_name": "royal-mountain-ski-area"
+        },
+        {
+            "country": "Finland",
+            "name": "Ruka",
+            "encoded_name": "ruka"
+        },
+        {
+            "country": "Austria",
+            "name": "Russbach",
+            "encoded_name": "russbach"
+        },
+        {
+            "country": "Austria",
+            "name": "Saalbach",
+            "encoded_name": "saalbach"
+        },
+        {
+            "country": "Switzerland",
+            "name": "Saanenmöser",
+            "encoded_name": "saanenmoser"
+        },
+        {
+            "country": "Switzerland",
+            "name": "Saas Balen",
+            "encoded_name": "saas-balen"
+        },
+        {
+            "country": "Switzerland",
+            "name": "Saas Fee",
+            "encoded_name": "saas-fee"
+        },
+        {
+            "country": "France",
+            "name": "Saint Jean d'Arves",
+            "encoded_name": "saint-jean-darves"
+        },
+        {
+            "country": "France",
+            "name": "Saint Jean d'Aulps",
+            "encoded_name": "saint-jean-daulps"
+        },
+        {
+            "country": "France",
+            "name": "Saint Lary Soulan",
+            "encoded_name": "saint-lary-soulan"
+        },
+        {
+            "country": "France",
+            "name": "Saint Léger les Mélèzes",
+            "encoded_name": "saint-leger-les-melezes"
+        },
+        {
+            "country": "France",
+            "name": "Saint Martin de Belleville",
+            "encoded_name": "saint-martin-de-belleville"
+        },
+        {
+            "country": "Sweden",
+            "name": "Sälen Lindvallen",
+            "encoded_name": "salen-lindvallen"
+        },
+        {
+            "country": "Sweden",
+            "name": "Sälen Tandådalen",
+            "encoded_name": "salen-tandadalen"
+        },
+        {
+            "country": "Switzerland",
+            "name": "Samedan",
+            "encoded_name": "samedan"
+        },
+        {
+            "country": "Switzerland",
+            "name": "Samnaun Dorf",
+            "encoded_name": "samnaun-dorf"
+        },
+        {
+            "country": "France",
+            "name": "Samoens 1600",
+            "encoded_name": "samoens-1600"
+        },
+        {
+            "country": "France",
+            "name": "Samoens Village",
+            "encoded_name": "samoens-village"
+        },
+        {
+            "country": "Italy",
+            "name": "San Martino di Castrozza",
+            "encoded_name": "san-martino-di-castrozza"
+        },
+        {
+            "country": "Italy",
+            "name": "San Vigilio di Marebbe",
+            "encoded_name": "san-vigilio-di-marebbe"
+        },
+        {
+            "country": "United States",
+            "name": "Sandia Peak",
+            "encoded_name": "sandia-peak"
+        },
+        {
+            "country": "Italy",
+            "name": "Sansicario",
+            "encoded_name": "sansicario"
+        },
+        {
+            "country": "United States",
+            "name": "Sapphire Valley",
+            "encoded_name": "sapphire-valley"
+        },
+        {
+            "country": "Italy",
+            "name": "Sauz D'Oulx",
+            "encoded_name": "sauz-doulx"
+        },
+        {
+            "country": "France",
+            "name": "Sauze Super Sauze",
+            "encoded_name": "sauze-super-sauze"
+        },
+        {
+            "country": "Austria",
+            "name": "Scheffau",
+            "encoded_name": "scheffau"
+        },
+        {
+            "country": "Austria",
+            "name": "Schladming - Planai - Hochwurzen",
+            "encoded_name": "schladming-planai-hochwurzen"
+        },
+        {
+            "country": "Switzerland",
+            "name": "Schönried",
+            "encoded_name": "schonried"
+        },
+        {
+            "country": "Austria",
+            "name": "Schröcken",
+            "encoded_name": "schrocken"
+        },
+        {
+            "country": "Austria",
+            "name": "Schruns",
+            "encoded_name": "schruns"
+        },
+        {
+            "country": "United States",
+            "name": "Schuss Mountain at Shanty Creek",
+            "encoded_name": "schuss-mountain-at-shanty-creek"
+        },
+        {
+            "country": "United States",
+            "name": "Schweitzer",
+            "encoded_name": "schweitzer"
+        },
+        {
+            "country": "Canada",
+            "name": "Searchmont Resort",
+            "encoded_name": "searchmont-resort"
+        },
+        {
+            "country": "Switzerland",
+            "name": "Sedrun",
+            "encoded_name": "sedrun"
+        },
+        {
+            "country": "Austria",
+            "name": "Seefeld",
+            "encoded_name": "seefeld"
+        },
+        {
+            "country": "Italy",
+            "name": "Sella Nevea - Kanin",
+            "encoded_name": "sella-nevea-kanin"
+        },
+        {
+            "country": "Italy",
+            "name": "Selva Gardena",
+            "encoded_name": "selva-gardena"
+        },
+        {
+            "country": "Australia",
+            "name": "Selwyn Snowfields",
+            "encoded_name": "selwyn-snowfields"
+        },
+        {
+            "country": "Austria",
+            "name": "Serfaus",
+            "encoded_name": "serfaus"
+        },
+        {
+            "country": "France",
+            "name": "Serre Chevalier",
+            "encoded_name": "serre-chevalier"
+        },
+        {
+            "country": "France",
+            "name": "Serre Eyraud",
+            "encoded_name": "serre-eyraud"
+        },
+        {
+            "country": "Italy",
+            "name": "Sestriere",
+            "encoded_name": "sestriere"
+        },
+        {
+            "country": "United States",
+            "name": "Seven Oaks",
+            "encoded_name": "seven-oaks"
+        },
+        {
+            "country": "United States",
+            "name": "Seven Springs",
+            "encoded_name": "seven-springs"
+        },
+        {
+            "country": "Italy",
+            "name": "Sexten Sesto",
+            "encoded_name": "sexten-sesto"
+        },
+        {
+            "country": "United States",
+            "name": "Shawnee Mountain",
+            "encoded_name": "shawnee-mountain-ski-area"
+        },
+        {
+            "country": "United States",
+            "name": "Shawnee Peak",
+            "encoded_name": "shawnee-peak"
+        },
+        {
+            "country": "United States",
+            "name": "Showdown Montana",
+            "encoded_name": "showdown-montana"
+        },
+        {
+            "country": "Spain",
+            "name": "Sierra Nevada",
+            "encoded_name": "sierra-nevada"
+        },
+        {
+            "country": "United States",
+            "name": "Sierra-at-Tahoe",
+            "encoded_name": "sierra-at-tahoe"
+        },
+        {
+            "country": "United States",
+            "name": "Silver Mountain",
+            "encoded_name": "silver-mountain"
+        },
+        {
+            "country": "Canada",
+            "name": "SilverStar",
+            "encoded_name": "silverstar"
+        },
+        {
+            "country": "United States",
+            "name": "Silverton Mountain",
+            "encoded_name": "silverton-mountain"
+        },
+        {
+            "country": "Austria",
+            "name": "Silvretta Montafon",
+            "encoded_name": "silvretta-montafon"
+        },
+        {
+            "country": "United States",
+            "name": "Sipapu Ski Resort",
+            "encoded_name": "sipapu-ski-resort"
+        },
+        {
+            "country": "Italy",
+            "name": "Siusi - Seiser Alm. ",
+            "encoded_name": "siusi-seiser-alm"
+        },
+        {
+            "country": "France",
+            "name": "Sixt",
+            "encoded_name": "sixt"
+        },
+        {
+            "country": "United States",
+            "name": "Ski Apache",
+            "encoded_name": "ski-apache"
+        },
+        {
+            "country": "United States",
+            "name": "Ski Big Bear",
+            "encoded_name": "ski-big-bear"
+        },
+        {
+            "country": "United States",
+            "name": "Ski Blandford",
+            "encoded_name": "ski-blandford"
+        },
+        {
+            "country": "United States",
+            "name": "Ski Brule",
+            "encoded_name": "ski-brule"
+        },
+        {
+            "country": "United States",
+            "name": "Ski Butternut",
+            "encoded_name": "ski-butternut"
+        },
+        {
+            "country": "United States",
+            "name": "Ski China Peak",
+            "encoded_name": "ski-china-peak"
+        },
+        {
+            "country": "United States",
+            "name": "Ski Santa Fe",
+            "encoded_name": "ski-santa-fe"
+        },
+        {
+            "country": "United States",
+            "name": "Ski Sawmill",
+            "encoded_name": "ski-sawmill"
+        },
+        {
+            "country": "United States",
+            "name": "Ski Snowstar Winter Sports Park",
+            "encoded_name": "ski-snowstar-winter-sports-park"
+        },
+        {
+            "country": "United States",
+            "name": "Ski Sundown",
+            "encoded_name": "ski-sundown"
+        },
+        {
+            "country": "United States",
+            "name": "Ski Ward",
+            "encoded_name": "ski-ward"
+        },
+        {
+            "country": "Austria",
+            "name": "Ski Welt",
+            "encoded_name": "ski-welt"
+        },
+        {
+            "country": "Australia",
+            "name": "Smiggin Holes",
+            "encoded_name": "smiggin-holes"
+        },
+        {
+            "country": "United States",
+            "name": "Smugglers' Notch Resort",
+            "encoded_name": "smugglers-notch-resort"
+        },
+        {
+            "country": "United States",
+            "name": "Snow Creek",
+            "encoded_name": "snow-creek"
+        },
+        {
+            "country": "United States",
+            "name": "Snow King Resort",
+            "encoded_name": "snow-king-resort"
+        },
+        {
+            "country": "United States",
+            "name": "Snow Ridge",
+            "encoded_name": "snow-ridge"
+        },
+        {
+            "country": "United States",
+            "name": "Snow Snake Mountain",
+            "encoded_name": "snow-snake-mountain-ski-area"
+        },
+        {
+            "country": "United States",
+            "name": "Snow Summit",
+            "encoded_name": "snow-summit"
+        },
+        {
+            "country": "United States",
+            "name": "Snow Trails",
+            "encoded_name": "snow-trails"
+        },
+        {
+            "country": "United States",
+            "name": "Snow Valley",
+            "encoded_name": "snow-valley"
+        },
+        {
+            "country": "United States",
+            "name": "Snowbasin",
+            "encoded_name": "snowbasin"
+        },
+        {
+            "country": "United States",
+            "name": "Snowbird",
+            "encoded_name": "snowbird"
+        },
+        {
+            "country": "United States",
+            "name": "Snowshoe Mountain",
+            "encoded_name": "snowshoe-mountain"
+        },
+        {
+            "country": "United States",
+            "name": "Snowy Range ",
+            "encoded_name": "snowy-range-ski-recreation-area"
+        },
+        {
+            "country": "United States",
+            "name": "Soda Springs",
+            "encoded_name": "soda-springs"
+        },
+        {
+            "country": "Austria",
+            "name": "Sölden",
+            "encoded_name": "solden"
+        },
+        {
+            "country": "Andorra",
+            "name": "Soldeu",
+            "encoded_name": "soldeu"
+        },
+        {
+            "country": "United States",
+            "name": "Soldier Mountain",
+            "encoded_name": "soldier-mountain-ski-area"
+        },
+        {
+            "country": "United States",
+            "name": "Solitude Mountain Resort",
+            "encoded_name": "solitude-mountain-resort"
+        },
+        {
+            "country": "Austria",
+            "name": "Söll",
+            "encoded_name": "soll"
+        },
+        {
+            "country": "France",
+            "name": "Sommand",
+            "encoded_name": "sommand"
+        },
+        {
+            "country": "United States",
+            "name": "Song Mountain",
+            "encoded_name": "song-mountain"
+        },
+        {
+            "country": "Austria",
+            "name": "Sonnenalpe Nassfeld",
+            "encoded_name": "sonnenalpe-nassfeld"
+        },
+        {
+            "country": "Austria",
+            "name": "Sonnleitn",
+            "encoded_name": "sonnleitn"
+        },
+        {
+            "country": "Slovenia",
+            "name": "Soriska Planina",
+            "encoded_name": "soriska-planina"
+        },
+        {
+            "country": "United States",
+            "name": "Spirit Mountain",
+            "encoded_name": "spirit-mountain"
+        },
+        {
+            "country": "United States",
+            "name": "Spout Springs",
+            "encoded_name": "spout-springs"
+        },
+        {
+            "country": "United States",
+            "name": "Spring Mountain",
+            "encoded_name": "spring-mountain-ski-area"
+        },
+        {
+            "country": "United States",
+            "name": "Palisades Tahoe",
+            "encoded_name": "palisades-tahoe"
+        },
+        {
+            "country": "France",
+            "name": "St Colomban des Villards",
+            "encoded_name": "st-colomban-des-villards"
+        },
+        {
+            "country": "Italy",
+            "name": "St Cristina",
+            "encoded_name": "st-cristina"
+        },
+        {
+            "country": "France",
+            "name": "St Etienne de Tinee",
+            "encoded_name": "st-etienne-de-tinee"
+        },
+        {
+            "country": "France",
+            "name": "St Francois Longchamp",
+            "encoded_name": "st-francois-longchamp"
+        },
+        {
+            "country": "Austria",
+            "name": "St Gallenkirch",
+            "encoded_name": "st-gallenkirch"
+        },
+        {
+            "country": "France",
+            "name": "St Nicolas de Veroce",
+            "encoded_name": "st-nicolas-de-veroce"
+        },
+        {
+            "country": "Austria",
+            "name": "St Oswald",
+            "encoded_name": "st-oswald"
+        },
+        {
+            "country": "France",
+            "name": "St Sorlin d'Arves",
+            "encoded_name": "st-sorlin-darves"
+        },
+        {
+            "country": "Italy",
+            "name": "St Ulrich",
+            "encoded_name": "st-ulrich"
+        },
+        {
+            "country": "Austria",
+            "name": "St Anton",
+            "encoded_name": "st-anton"
+        },
+        {
+            "country": "Austria",
+            "name": "St. Christof",
+            "encoded_name": "st-christof"
+        },
+        {
+            "country": "Austria",
+            "name": "St. Georgen am Walde - Schorschi Lift",
+            "encoded_name": "st-georgen-am-walde-schorschi-lift"
+        },
+        {
+            "country": "France",
+            "name": "St. Gervais Mont-Blanc",
+            "encoded_name": "st-gervais-mont-blanc"
+        },
+        {
+            "country": "Austria",
+            "name": "St. Johann",
+            "encoded_name": "st-johann"
+        },
+        {
+            "country": "Switzerland",
+            "name": "St. Moritz",
+            "encoded_name": "st-moritz"
+        },
+        {
+            "country": "Switzerland",
+            "name": "St. Peter - Pagig",
+            "encoded_name": "st-peter-pagig"
+        },
+        {
+            "country": "Slovenia",
+            "name": "Stari Vrh nad Skofja Loka",
+            "encoded_name": "stari-vrh-nad-skofja-loka"
+        },
+        {
+            "country": "United States",
+            "name": "Steamboat",
+            "encoded_name": "steamboat"
+        },
+        {
+            "country": "United States",
+            "name": "Stevens Pass Resort",
+            "encoded_name": "stevens-pass-resort"
+        },
+        {
+            "country": "Canada",
+            "name": "Stoneham",
+            "encoded_name": "stoneham"
+        },
+        {
+            "country": "United States",
+            "name": "Stowe Mountain",
+            "encoded_name": "stowe-mountain"
+        },
+        {
+            "country": "United States",
+            "name": "Stratton Mountain",
+            "encoded_name": "stratton-mountain"
+        },
+        {
+            "country": "Slovakia",
+            "name": "Strbske Pleso",
+            "encoded_name": "strbske-pleso"
+        },
+        {
+            "country": "Norway",
+            "name": "Stryn",
+            "encoded_name": "stryn"
+        },
+        {
+            "country": "Austria",
+            "name": "Stubaier Glacier",
+            "encoded_name": "stubaier-glacier"
+        },
+        {
+            "country": "Austria",
+            "name": "Stuben",
+            "encoded_name": "stuben"
+        },
+        {
+            "country": "United States",
+            "name": "Sugar Bowl",
+            "encoded_name": "sugar-bowl-resort"
+        },
+        {
+            "country": "United States",
+            "name": "Sugar Mountain Resort",
+            "encoded_name": "sugar-mountain-resort"
+        },
+        {
+            "country": "United States",
+            "name": "Sugarbush",
+            "encoded_name": "sugarbush"
+        },
+        {
+            "country": "United States",
+            "name": "Sugarloaf",
+            "encoded_name": "sugarloaf"
+        },
+        {
+            "country": "United States",
+            "name": "Suicide Six",
+            "encoded_name": "suicide-six"
+        },
+        {
+            "country": "Canada",
+            "name": "Sun Peaks",
+            "encoded_name": "sun-peaks"
+        },
+        {
+            "country": "United States",
+            "name": "Sun Valley",
+            "encoded_name": "sun-valley"
+        },
+        {
+            "country": "United States",
+            "name": "Sunburst",
+            "encoded_name": "sunburst"
+        },
+        {
+            "country": "United States",
+            "name": "Sundance",
+            "encoded_name": "sundance"
+        },
+        {
+            "country": "United States",
+            "name": "Sunday River",
+            "encoded_name": "sunday-river"
+        },
+        {
+            "country": "United States",
+            "name": "Sundown Mountain",
+            "encoded_name": "sundown-mountain"
+        },
+        {
+            "country": "United States",
+            "name": "Sunlight Mountain Resort",
+            "encoded_name": "sunlight-mountain-resort"
+        },
+        {
+            "country": "United States",
+            "name": "Sunrise Park Resort",
+            "encoded_name": "sunrise-park-resort"
+        },
+        {
+            "country": "France",
+            "name": "Superdevoluy",
+            "encoded_name": "superdevoluy"
+        },
+        {
+            "country": "Switzerland",
+            "name": "Surlej",
+            "encoded_name": "surlej"
+        },
+        {
+            "country": "United States",
+            "name": "Swain",
+            "encoded_name": "swain"
+        },
+        {
+            "country": "United States",
+            "name": "Swiss Valley",
+            "encoded_name": "swiss-valley"
+        },
+        {
+            "country": "Poland",
+            "name": "Szczyrk",
+            "encoded_name": "szczyrk-mountain-resort"
+        },
+        {
+            "country": "United States",
+            "name": "Tahoe Donner",
+            "encoded_name": "tahoe-donner"
+        },
+        {
+            "country": "United States",
+            "name": "Tamarack Resort",
+            "encoded_name": "tamarack-resort"
+        },
+        {
+            "country": "Spain",
+            "name": "Tanau",
+            "encoded_name": "tanau"
+        },
+        {
+            "country": "United States",
+            "name": "Taos Ski Valley",
+            "encoded_name": "taos-ski-valley"
+        },
+        {
+            "country": "Slovakia",
+            "name": "Tatranska Lomnica",
+            "encoded_name": "tatranska-lomnica"
+        },
+        {
+            "country": "United States",
+            "name": "Telluride",
+            "encoded_name": "telluride"
+        },
+        {
+            "country": "New Zealand",
+            "name": "Temple Basin",
+            "encoded_name": "temple-basin"
+        },
+        {
+            "country": "France",
+            "name": "Termignon",
+            "encoded_name": "termignon"
+        },
+        {
+            "country": "United States",
+            "name": "Terry Peak Ski Area",
+            "encoded_name": "terry-peak-ski-area"
+        },
+        {
+            "country": "United States",
+            "name": "Teton Pass Ski Resort",
+            "encoded_name": "teton-pass-ski-resort"
+        },
+        {
+            "country": "France",
+            "name": "The 3 Valleys",
+            "encoded_name": "the-3-valleys"
+        },
+        {
+            "country": "United States",
+            "name": "The Homestead",
+            "encoded_name": "the-homestead"
+        },
+        {
+            "country": "United States",
+            "name": "The Homestead Ski Area",
+            "encoded_name": "the-homestead-ski-area"
+        },
+        {
+            "country": "United Kingdom",
+            "name": "The Lecht",
+            "encoded_name": "lecht"
+        },
+        {
+            "country": "New Zealand",
+            "name": "The Remarkables",
+            "encoded_name": "the-remarkables"
+        },
+        {
+            "country": "United States",
+            "name": "The Summit at Snoqualmie",
+            "encoded_name": "the-summit-at-snoqualmie"
+        },
+        {
+            "country": "Australia",
+            "name": "Thredbo",
+            "encoded_name": "thredbo"
+        },
+        {
+            "country": "United States",
+            "name": "Thunder Ridge",
+            "encoded_name": "thunder-ridge"
+        },
+        {
+            "country": "Switzerland",
+            "name": "Thyon 2000",
+            "encoded_name": "thyon-2000"
+        },
+        {
+            "country": "France",
+            "name": "Tignes",
+            "encoded_name": "tignes"
+        },
+        {
+            "country": "United States",
+            "name": "Timber Ridge",
+            "encoded_name": "timber-ridge"
+        },
+        {
+            "country": "United States",
+            "name": "Timberline Four Seasons",
+            "encoded_name": "timberline-four-seasons"
+        },
+        {
+            "country": "United States",
+            "name": "Timberline Lodge",
+            "encoded_name": "timberline-lodge"
+        },
+        {
+            "country": "Austria",
+            "name": "Tiroler Zugspitz Arena",
+            "encoded_name": "tiroler-zugspitz-arena"
+        },
+        {
+            "country": "United States",
+            "name": "Titus Mountain",
+            "encoded_name": "titus-mountain"
+        },
+        {
+            "country": "Italy",
+            "name": "Toblach Dobbiaco",
+            "encoded_name": "toblach-dobbiaco"
+        },
+        {
+            "country": "United States",
+            "name": "Toggenburg Mountain",
+            "encoded_name": "toggenburg-mountain"
+        },
+        {
+            "country": "Italy",
+            "name": "Tonale",
+            "encoded_name": "tonale"
+        },
+        {
+            "country": "Germany",
+            "name": "Torfhaus",
+            "encoded_name": "torfhaus"
+        },
+        {
+            "country": "New Zealand",
+            "name": "Treble Cone",
+            "encoded_name": "treble-cone"
+        },
+        {
+            "country": "United States",
+            "name": "Treetops Resort",
+            "encoded_name": "treetops-resort"
+        },
+        {
+            "country": "Italy",
+            "name": "Trepalle",
+            "encoded_name": "trepalle"
+        },
+        {
+            "country": "United States",
+            "name": "Trollhaugen",
+            "encoded_name": "trollhaugen"
+        },
+        {
+            "country": "Austria",
+            "name": "Tropolach",
+            "encoded_name": "tropolach"
+        },
+        {
+            "country": "Norway",
+            "name": "Trysil",
+            "encoded_name": "trysil"
+        },
+        {
+            "country": "Austria",
+            "name": "Tschagguns",
+            "encoded_name": "tschagguns"
+        },
+        {
+            "country": "New Zealand",
+            "name": "Turoa",
+            "encoded_name": "turoa"
+        },
+        {
+            "country": "United States",
+            "name": "Tussey Mountain",
+            "encoded_name": "tussey-mountain"
+        },
+        {
+            "country": "Austria",
+            "name": "Tux",
+            "encoded_name": "tux"
+        },
+        {
+            "country": "United States",
+            "name": "Tyrol Basin",
+            "encoded_name": "tyrol-basin"
+        },
+        {
+            "country": "United States",
+            "name": "Vail",
+            "encoded_name": "vail"
+        },
+        {
+            "country": "France",
+            "name": "Val Cenis",
+            "encoded_name": "val-cenis"
+        },
+        {
+            "country": "France",
+            "name": "Val d'Allos",
+            "encoded_name": "val-dallos"
+        },
+        {
+            "country": "France",
+            "name": "Val d'Azun",
+            "encoded_name": "val-dazun"
+        },
+        {
+            "country": "France",
+            "name": "Val d'Isere",
+            "encoded_name": "val-disere"
+        },
+        {
+            "country": "France",
+            "name": "Val Thorens",
+            "encoded_name": "val-thorens"
+        },
+        {
+            "country": "Switzerland",
+            "name": "Valbella",
+            "encoded_name": "valbella"
+        },
+        {
+            "country": "France",
+            "name": "Valberg",
+            "encoded_name": "valberg"
+        },
+        {
+            "country": "Spain",
+            "name": "Valdelinares",
+            "encoded_name": "valdelinares"
+        },
+        {
+            "country": "France",
+            "name": "Vallandry",
+            "encoded_name": "vallandry"
+        },
+        {
+            "country": "France",
+            "name": "Valloire",
+            "encoded_name": "valloire"
+        },
+        {
+            "country": "France",
+            "name": "Valmeinier",
+            "encoded_name": "valmeinier"
+        },
+        {
+            "country": "France",
+            "name": "Valmeinier 1800",
+            "encoded_name": "valmeinier-1800"
+        },
+        {
+            "country": "France",
+            "name": "Valmorel",
+            "encoded_name": "valmorel"
+        },
+        {
+            "country": "Italy",
+            "name": "Valtournenche",
+            "encoded_name": "valtournenche"
+        },
+        {
+            "country": "France",
+            "name": "Vars",
+            "encoded_name": "vars"
+        },
+        {
+            "country": "France",
+            "name": "Vaujany",
+            "encoded_name": "vaujany"
+        },
+        {
+            "country": "Sweden",
+            "name": "Vemdalen",
+            "encoded_name": "vemdalen"
+        },
+        {
+            "country": "Switzerland",
+            "name": "Verbier",
+            "encoded_name": "verbier"
+        },
+        {
+            "country": "Switzerland",
+            "name": "Veysonnaz",
+            "encoded_name": "veysonnaz"
+        },
+        {
+            "country": "United States",
+            "name": "Villa Olivia",
+            "encoded_name": "villa-olivia"
+        },
+        {
+            "country": "France",
+            "name": "Villard de Lans",
+            "encoded_name": "villard-de-lans"
+        },
+        {
+            "country": "France",
+            "name": "Villaroger",
+            "encoded_name": "villaroger"
+        },
+        {
+            "country": "Switzerland",
+            "name": "Villars  ",
+            "encoded_name": "villars"
+        },
+        {
+            "country": "France",
+            "name": "Villeneuve",
+            "encoded_name": "villeneuve"
+        },
+        {
+            "country": "Canada",
+            "name": "Vorlage",
+            "encoded_name": "vorlage"
+        },
+        {
+            "country": "United States",
+            "name": "Wachusett Mountain Ski Area",
+            "encoded_name": "wachusett-mountain-ski-area"
+        },
+        {
+            "country": "Austria",
+            "name": "Wagrain",
+            "encoded_name": "wagrain"
+        },
+        {
+            "country": "Austria",
+            "name": "Warth",
+            "encoded_name": "warth"
+        },
+        {
+            "country": "United States",
+            "name": "Waterville Valley",
+            "encoded_name": "waterville-valley"
+        },
+        {
+            "country": "United States",
+            "name": "Welch Village",
+            "encoded_name": "welch-village"
+        },
+        {
+            "country": "Switzerland",
+            "name": "Wengen",
+            "encoded_name": "wengen"
+        },
+        {
+            "country": "United States",
+            "name": "West Mountain",
+            "encoded_name": "west-mountain"
+        },
+        {
+            "country": "Austria",
+            "name": "Westendorf",
+            "encoded_name": "westendorf"
+        },
+        {
+            "country": "New Zealand",
+            "name": "Whakapapa",
+            "encoded_name": "whakapapa"
+        },
+        {
+            "country": "Canada",
+            "name": "Whistler",
+            "encoded_name": "whistler"
+        },
+        {
+            "country": "United States",
+            "name": "White Pass",
+            "encoded_name": "white-pass"
+        },
+        {
+            "country": "United States",
+            "name": "White Pine",
+            "encoded_name": "white-pine-ski-area"
+        },
+        {
+            "country": "United States",
+            "name": "Whitecap Mountain",
+            "encoded_name": "whitecap-mountain"
+        },
+        {
+            "country": "United States",
+            "name": "Whiteface Mountain Resort",
+            "encoded_name": "whiteface-mountain-resort"
+        },
+        {
+            "country": "United States",
+            "name": "Whitefish Mountain Resort",
+            "encoded_name": "whitefish-mountain-resort"
+        },
+        {
+            "country": "United States",
+            "name": "Whitetail Resort",
+            "encoded_name": "whitetail-resort"
+        },
+        {
+            "country": "Canada",
+            "name": "Whitewater Ski Resort",
+            "encoded_name": "whitewater-ski-resort"
+        },
+        {
+            "country": "United States",
+            "name": "Wild Mountain Ski & Snowboard Area",
+            "encoded_name": "wild-mountain-ski--snowboard-area"
+        },
+        {
+            "country": "United States",
+            "name": "Wildcat Mountain",
+            "encoded_name": "wildcat-mountain"
+        },
+        {
+            "country": "United States",
+            "name": "Willamette Pass",
+            "encoded_name": "willamette-pass"
+        },
+        {
+            "country": "United States",
+            "name": "Willard Mountain",
+            "encoded_name": "willard-mountain"
+        },
+        {
+            "country": "United States",
+            "name": "Wilmot Mountain",
+            "encoded_name": "wilmot-mountain"
+        },
+        {
+            "country": "United States",
+            "name": "Windham Mountain",
+            "encoded_name": "windham-mountain"
+        },
+        {
+            "country": "United States",
+            "name": "Winter Park",
+            "encoded_name": "winter-park"
+        },
+        {
+            "country": "Germany",
+            "name": "Winterberg",
+            "encoded_name": "winterberg"
+        },
+        {
+            "country": "United States",
+            "name": "Wintergreen Resort",
+            "encoded_name": "wintergreen-resort"
+        },
+        {
+            "country": "United States",
+            "name": "Winterplace Ski Resort",
+            "encoded_name": "winterplace-ski-resort"
+        },
+        {
+            "country": "United States",
+            "name": "Wisp",
+            "encoded_name": "wisp"
+        },
+        {
+            "country": "United States",
+            "name": "Wolf Creek",
+            "encoded_name": "wolf-creek-ski-area"
+        },
+        {
+            "country": "United States",
+            "name": "Wolf Ridge Ski Resort",
+            "encoded_name": "wolf-ridge-ski-resort"
+        },
+        {
+            "country": "United States",
+            "name": "Woodbury Ski Area",
+            "encoded_name": "woodbury-ski-area"
+        },
+        {
+            "country": "United States",
+            "name": "Woods Valley Ski Area",
+            "encoded_name": "woods-valley-ski-area"
+        },
+        {
+            "country": "Finland",
+            "name": "Ylläs",
+            "encoded_name": "yllas"
+        },
+        {
+            "country": "Austria",
+            "name": "Zell am See",
+            "encoded_name": "zell-am-see"
+        },
+        {
+            "country": "Austria",
+            "name": "Zell am Ziller",
+            "encoded_name": "zell-am-ziller"
+        },
+        {
+            "country": "Switzerland",
+            "name": "Zermatt",
+            "encoded_name": "zermatt"
+        },
+        {
+            "country": "Poland",
+            "name": "Zieleniec",
+            "encoded_name": "zieleniec"
+        },
+        {
+            "country": "Austria",
+            "name": "Zillertal 3000",
+            "encoded_name": "zillertal-3000"
+        },
+        {
+            "country": "Austria",
+            "name": "Zürs am Arlberg",
+            "encoded_name": "zurs-am-arlberg"
+        }
+    ],
+    "countries": [
+        {
+            "name": "Andorra"
+        },
+        {
+            "name": "Australia"
+        },
+        {
+            "name": "Austria"
+        },
+        {
+            "name": "Bulgaria"
+        },
+        {
+            "name": "Canada"
+        },
+        {
+            "name": "Czech Republic"
+        },
+        {
+            "name": "Finland"
+        },
+        {
+            "name": "France"
+        },
+        {
+            "name": "Germany"
+        },
+        {
+            "name": "Italy"
+        },
+        {
+            "name": "New Zealand"
+        },
+        {
+            "name": "Norway"
+        },
+        {
+            "name": "Poland"
+        },
+        {
+            "name": "Slovakia"
+        },
+        {
+            "name": "Slovenia"
+        },
+        {
+            "name": "Spain"
+        },
+        {
+            "name": "Sweden"
+        },
+        {
+            "name": "Switzerland"
+        },
+        {
+            "name": "United Kingdom"
+        },
+        {
+            "name": "United States"
+        }
+    ]
+}
